@@ -1,0 +1,8 @@
+pysubs2
+deep-translator
+cloudscraper
+beautifulsoup4
+thefuzz
+questionary
+rich
+requests
