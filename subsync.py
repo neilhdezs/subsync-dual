@@ -41,7 +41,8 @@ cache_lock = Lock()
 TRANSLATION_CACHE = {}
 if os.path.exists(CACHE_FILE):
     try:
-        with open(CACHE_FILE, 'r', encoding='utf-8') as f: TRANSLATION_CACHE = json.load(f)
+        with open(CACHE_FILE, 'r', encoding='utf-8') as f:
+            TRANSLATION_CACHE = json.load(f)
     except: pass
 
 def save_cache():
@@ -100,7 +101,7 @@ def download_zip(show_name, show_id, season, lang):
     url = f"https://www.tvsubtitles.net/files/seasons/{safe_name}%20-%20season%20{season}.{lang}.zip"
     dest = os.path.join(WORK_DIR, f"{lang}.zip")
     extract_to = os.path.join(WORK_DIR, lang)
-    
+
     try:
         r = scraper.get(url, timeout=15)
         if r.status_code == 200 and len(r.content) > 1000:
@@ -118,7 +119,7 @@ def translate_text(text):
         if text in TRANSLATION_CACHE: return TRANSLATION_CACHE[text]
     try:
         with translator_lock:
-            time.sleep(0.05) 
+            time.sleep(0.05)
             trans = GoogleTranslator(source='en', target='es').translate(text)
         with cache_lock:
             TRANSLATION_CACHE[text] = trans
@@ -129,7 +130,7 @@ def process_single_episode(f_en, en_dir, es_dir, work_dir, final_out_path, serie
     try:
         tag_match = re.search(r'(\d+[xXeE]\d+|S\d+E\d+)', f_en, re.IGNORECASE)
         tag = tag_match.group(1).upper() if tag_match else f_en[:10]
-        
+
         es_files = os.listdir(es_dir)
         best_es = None
         if es_files:
@@ -138,7 +139,7 @@ def process_single_episode(f_en, en_dir, es_dir, work_dir, final_out_path, serie
 
         path_en = os.path.join(en_dir, f_en)
         s_en = load_subs_safe(path_en)
-        if not s_en: 
+        if not s_en:
             progress.update(task_id, description="[red]Error carga EN", completed=100)
             logger.error(f"No se pudo cargar: {f_en}")
             return
@@ -156,24 +157,35 @@ def process_single_episode(f_en, en_dir, es_dir, work_dir, final_out_path, serie
             logger.warning(f"{tag}: Sin par español. Usando traducción pura.")
 
         progress.update(task_id, description=f"[magenta]Fusionando...", total=len(s_en))
-        
+
+        # --- LÓGICA ANTI-ECO ---
+        last_match_txt = "" 
+
         for i, line in enumerate(s_en):
             txt = line.text.replace("\\N", " ").strip()
             if not txt: continue
-            
+
             match_txt = ""
             if s_es:
+                # Obtenemos fragmentos que solapan
                 ms = [l.text.replace("\\N", " ").strip() for l in s_es if l.start < line.end and l.end > line.start]
-                match_txt = " ".join(ms)
+                # Anti-Eco Intra-línea: Deduplicamos fragmentos idénticos manteniendo orden
+                match_txt = " ".join(list(dict.fromkeys(ms)))
 
+            # Si no hay par sincronizado, traducimos
             if not match_txt:
                 match_txt = translate_text(txt)
 
             if match_txt:
-                line.text = f"<font color='#ffff00'>{txt}</font>\\N{match_txt}"
+                # Anti-Eco Inter-línea: Si el texto español es igual al anterior, no lo repetimos
+                if match_txt == last_match_txt and len(match_txt) > 5:
+                    line.text = f"<font color='#ffff00'>{txt}</font>"
+                else:
+                    line.text = f"<font color='#ffff00'>{txt}</font>\\N{match_txt}"
+                    last_match_txt = match_txt
             else:
                 line.text = txt
-            
+
             progress.advance(task_id, 1)
 
         output_filename = f"{series_folder}_{tag}_Dual.srt"
@@ -189,11 +201,11 @@ def process_season_logic(clean_name, show_id, season, max_threads):
     console.rule(f"[bold]Procesando Temporada {season}[/bold]")
     logger.info(f"--- INICIO TEMPORADA {season} ---")
     clean_workspace()
-    
+
     with console.status(f"[bold yellow]Descargando packs Temporada {season}..."):
         ok_en = download_zip(clean_name, show_id, season, "en")
         ok_es = download_zip(clean_name, show_id, season, "es")
-    
+
     if not ok_en:
         console.print(f"[red]✗ Temporada {season}: Pack Inglés no encontrado.[/red]")
         logger.warning(f"T{season}: Pack EN no encontrado. Saltando.")
@@ -211,7 +223,7 @@ def process_season_logic(clean_name, show_id, season, max_threads):
     if not en_files: return False
 
     console.print(f"[cyan]---> Procesando {len(en_files)} eps con {max_threads} hilos <---[/cyan]")
-    
+
     progress = Progress(
         SpinnerColumn(),
         TextColumn("[bold blue]{task.fields[filename]}"),
@@ -226,43 +238,43 @@ def process_season_logic(clean_name, show_id, season, max_threads):
             for f_en in en_files:
                 task_id = progress.add_task("Wait...", filename=f_en[:15]+"..", total=100)
                 future = executor.submit(
-                    process_single_episode, 
+                    process_single_episode,
                     f_en, en_dir, es_dir, WORK_DIR, final_out_path, series_folder, progress, task_id
                 )
                 futures.append(future)
             for _ in as_completed(futures): pass
-    
+
     save_cache()
     return True
 
 def main():
-    console.print(Panel("[bold white on blue] SUBSYNC V21: LOGS RESTORED [/bold white on blue]"))
+    console.print(Panel("[bold white on blue] SUBSYNC V21: ANTI-ECHO UPDATED [/bold white on blue]"))
     logger.info("Sesión iniciada")
-    
+
     query = questionary.text("Serie a buscar:").ask()
     if not query: return
-    
+
     results = get_search_results(query)
     if not results:
         console.print("[red]No se encontraron resultados.[/red]")
         return
-        
+
     d_map = {f"{r['display']} [ID:{r['id']}]": r for r in results}
     choice = questionary.select("Selecciona:", choices=list(d_map.keys())).ask()
     selected = d_map[choice]
-    
+
     season_input = questionary.text("Temporadas (ej: '1-N'):").ask()
     seasons = parse_seasons(season_input)
-    
+
     cpu_cores = os.cpu_count() or 4
     try:
         t_input = questionary.text(f"Hilos (Detectados {cpu_cores}):", default=str(cpu_cores)).ask()
         max_threads = int(t_input)
     except: max_threads = 4
-    
+
     current_season = 1
     is_infinite = (seasons is None)
-    
+
     while True:
         if not is_infinite:
             if not seasons: break
@@ -270,11 +282,11 @@ def main():
         else: s_num = current_season
 
         success = process_season_logic(selected['clean_name'], selected['id'], s_num, max_threads)
-        
+
         if is_infinite and not success:
             console.print(f"[bold red]Fin del trayecto en T{s_num}.[/bold red]")
             break
-        
+
         if is_infinite:
             current_season += 1
             if current_season > 50: break
