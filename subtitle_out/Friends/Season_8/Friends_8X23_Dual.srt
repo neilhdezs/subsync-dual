@@ -1,0 +1,1485 @@
+1
+00:00:02,866 --> 00:00:04,159
+<font color='#ffff00'>All right!</font>
+¡Genial!
+
+2
+00:00:04,367 --> 00:00:08,037
+<font color='#ffff00'>Yes! From home to the hospital in seven minutes!</font>
+[ERROR API]
+
+3
+00:00:08,246 --> 00:00:11,541
+<font color='#ffff00'>Yes. The hard part is truly over.</font>
+[ERROR API]
+
+4
+00:00:12,041 --> 00:00:15,003
+<font color='#ffff00'>We're off to a great start, aren't we?</font>
+[ERROR API]
+
+5
+00:00:15,170 --> 00:00:18,882
+<font color='#ffff00'>I knew I'd get here fast, but this has to be a record!</font>
+[ERROR API]
+
+6
+00:00:19,174 --> 00:00:22,302
+<font color='#ffff00'>- Oh, you made it! - Hi.</font>
+[ERROR API]
+
+7
+00:00:22,760 --> 00:00:26,598
+<font color='#ffff00'>- How the hell did you beat us here? - We took a cab. Did you walk?</font>
+[ERROR API]
+
+8
+00:00:27,640 --> 00:00:30,685
+<font color='#ffff00'>No, we took a cab too. But I did test runs...</font>
+[ERROR API]
+
+9
+00:00:30,852 --> 00:00:33,188
+<font color='#ffff00'>- Hi. - Hey, you made it!</font>
+[ERROR API]
+
+10
+00:00:34,189 --> 00:00:38,276
+<font color='#ffff00'>Okay, is there some kind of magic tunnel to this hospital?</font>
+[ERROR API]
+
+11
+00:00:38,693 --> 00:00:42,572
+<font color='#ffff00'>Ross, you stay here and talk. I'm gonna go have a baby.</font>
+[ERROR API]
+
+12
+00:00:42,780 --> 00:00:47,827
+<font color='#ffff00'>Okay. Hi, this is Rachel Green. I'm Ross Geller. We called from the car.</font>
+[ERROR API]
+
+13
+00:00:47,994 --> 00:00:51,039
+<font color='#ffff00'>We have a semi-private labor room waiting...</font>
+[ERROR API]
+
+14
+00:00:51,206 --> 00:00:56,711
+<font color='#ffff00'>Oh, whoa! I'm sorry. Semi-private? We asked for a private room.</font>
+[ERROR API]
+
+15
+00:00:56,878 --> 00:01:01,174
+<font color='#ffff00'>Yes, I see that here. We can't guarantee a private room.</font>
+[ERROR API]
+
+16
+00:01:01,341 --> 00:01:06,930
+<font color='#ffff00'>- Currently, they're all unavailable. - Man, if only you'd gotten here sooner.</font>
+[ERROR API]
+
+17
+00:01:07,180 --> 00:01:10,767
+<font color='#ffff00'>I'm sorry. Semi-private rooms are all we have.</font>
+[ERROR API]
+
+18
+00:01:10,934 --> 00:01:14,687
+<font color='#ffff00'>Okay. Just give us a second. Ross?</font>
+[ERROR API]
+
+19
+00:01:16,064 --> 00:01:17,065
+<font color='#ffff00'>Yeah?</font>
+¿Sí?
+
+20
+00:01:17,232 --> 00:01:21,611
+<font color='#ffff00'>- Give her some money. - I really think they're out of rooms.</font>
+[ERROR API]
+
+21
+00:01:21,819 --> 00:01:26,616
+<font color='#ffff00'>They're saving them for important people! What if I was the president?</font>
+[ERROR API]
+
+22
+00:01:26,866 --> 00:01:29,994
+<font color='#ffff00'>We'd be in a lot of trouble. You don't know where any countries are.</font>
+[ERROR API]
+
+23
+00:01:32,413 --> 00:01:33,915
+<font color='#ffff00'>Okay.</font>
+Okay.
+
+24
+00:01:34,582 --> 00:01:38,211
+<font color='#ffff00'>Say, would you mind checking again?</font>
+[ERROR API]
+
+25
+00:01:38,419 --> 00:01:42,757
+<font color='#ffff00'>See if any, uh, private rooms may have opened up?</font>
+[ERROR API]
+
+26
+00:01:43,758 --> 00:01:45,760
+<font color='#ffff00'>This is a hospital.</font>
+[ERROR API]
+
+27
+00:01:45,969 --> 00:01:49,430
+<font color='#ffff00'>You know what? I don't really care for your tone.</font>
+[ERROR API]
+
+28
+00:01:49,597 --> 00:01:55,478
+<font color='#ffff00'>This is not the only hospital in the city. We have no problem... Whoa. Oh, gosh!</font>
+[ERROR API]
+
+29
+00:01:55,645 --> 00:01:57,480
+<font color='#ffff00'>- What, what? - Contraction! Ow! Ow!</font>
+[ERROR API]
+
+30
+00:01:57,647 --> 00:02:01,109
+<font color='#ffff00'>- Oh! - Ow, ow, ow, ow. Ooh, ooh.</font>
+[ERROR API]
+
+31
+00:02:01,359 --> 00:02:04,696
+<font color='#ffff00'>- Like to see a semi-private room? - Yeah, it couldn't hurt to look.</font>
+[ERROR API]
+
+32
+00:02:44,319 --> 00:02:48,031
+<font color='#ffff00'>You're 2 centimeters dilated. We need to get to 10.</font>
+[ERROR API]
+
+33
+00:02:48,239 --> 00:02:50,325
+<font color='#ffff00'>- It will be a while. - Oh, okay.</font>
+[ERROR API]
+
+34
+00:02:50,491 --> 00:02:54,662
+<font color='#ffff00'>- I'll be back in an hour to check on you. - Thank you.</font>
+[ERROR API]
+
+35
+00:02:55,371 --> 00:02:59,667
+<font color='#ffff00'>- I guess we have some time to kill. - Yeah, guess so.</font>
+[ERROR API]
+
+36
+00:02:59,834 --> 00:03:02,670
+<font color='#ffff00'>- Oh, check these out. - Oh.</font>
+[ERROR API]
+
+37
+00:03:10,345 --> 00:03:13,139
+<font color='#ffff00'>Never done this before.</font>
+[ERROR API]
+
+38
+00:03:13,389 --> 00:03:15,642
+<font color='#ffff00'>Yeah, well, it looks great.</font>
+[ERROR API]
+
+39
+00:03:17,268 --> 00:03:21,397
+<font color='#ffff00'>Thank you very much. I think we're ready to...</font>
+[ERROR API]
+
+40
+00:03:27,904 --> 00:03:32,867
+<font color='#ffff00'>Hi, I'm Ross. I'm here to ruin this magical day for you.</font>
+[ERROR API]
+
+41
+00:03:33,034 --> 00:03:36,371
+<font color='#ffff00'>- Not at all. Marc Horger. My wife, Julie. - Don't worry about it.</font>
+[ERROR API]
+
+42
+00:03:36,537 --> 00:03:39,707
+<font color='#ffff00'>- Hi, Julie. This is Rachel. - Oh, hi, Rachel.</font>
+[ERROR API]
+
+43
+00:03:39,874 --> 00:03:42,085
+<font color='#ffff00'>- Is this your first? - It is.</font>
+[ERROR API]
+
+44
+00:03:42,251 --> 00:03:45,046
+<font color='#ffff00'>- Well, little Jamie here is our third. - Wow.</font>
+[ERROR API]
+
+45
+00:03:45,213 --> 00:03:48,675
+<font color='#ffff00'>So if you have any questions, just holler.</font>
+[ERROR API]
+
+46
+00:03:48,883 --> 00:03:51,803
+<font color='#ffff00'>- That's so sweet. - Yeah.</font>
+[ERROR API]
+
+47
+00:03:53,429 --> 00:03:58,101
+<font color='#ffff00'>- Let me give you guys some privacy. - Nonsense. We're all in this together.</font>
+[ERROR API]
+
+48
+00:03:58,267 --> 00:04:02,230
+<font color='#ffff00'>We are gonna share every moment of this with you.</font>
+[ERROR API]
+
+49
+00:04:02,397 --> 00:04:06,234
+<font color='#ffff00'>- I think we're gonna have some fun. - Yeah.</font>
+[ERROR API]
+
+50
+00:04:06,567 --> 00:04:08,736
+<font color='#ffff00'>- Oh, okay, I guess. - Hey, smile!</font>
+[ERROR API]
+
+51
+00:04:08,903 --> 00:04:10,947
+<font color='#ffff00'>- No. - I really don't want any...</font>
+- No. - De verdad no quiero nada...
+
+52
+00:04:11,197 --> 00:04:12,281
+<font color='#ffff00'>Oh, thank you.</font>
+Oh, gracias.
+
+53
+00:04:13,574 --> 00:04:16,160
+<font color='#ffff00'>Oh, Ross. Here comes another contraction.</font>
+Oh, Ross. Aquí viene otra contracción.
+
+54
+00:04:16,327 --> 00:04:19,122
+<font color='#ffff00'>- Ooh, ooh, ooh... - Okay, just breathe...</font>
+- Ooh, ooh, ooh... - Okay, solo respira...
+
+55
+00:04:19,330 --> 00:04:22,917
+<font color='#ffff00'>- Oh, honey, I think I'm having one too! - Oh, my God!</font>
+- Oh, cariño, ¡creo que estoy teniendo una también! - ¡Dios mío!
+
+56
+00:04:23,084 --> 00:04:26,170
+<font color='#ffff00'>- Ow, ow, ow, ow. - Oh, oh, oh.</font>
+- Ay, ay, ay, ay. - Oh, oh, oh.
+
+57
+00:04:26,337 --> 00:04:31,092
+<font color='#ffff00'>- Hey, look at this. Here you go! - Oh, no!</font>
+- Oye, mira esto. ¡Aquí tienes! - ¡Oh, no!
+
+58
+00:04:36,764 --> 00:04:39,434
+<font color='#ffff00'>Oh, wow. Three hours and still no baby.</font>
+Vaya. Tres horas y todavía no hay bebé.
+
+59
+00:04:39,642 --> 00:04:44,230
+<font color='#ffff00'>Ugh, the miracle of birth sure is a snooze-fest.</font>
+Uf, el milagro del nacimiento es un rollo.
+
+60
+00:04:46,107 --> 00:04:50,027
+<font color='#ffff00'>- Hey, you wanna see something? - Sure. What?</font>
+- Oye, ¿quieres ver algo? - Claro. ¿Qué?
+
+61
+00:04:50,278 --> 00:04:53,448
+<font color='#ffff00'>This will be fun. Watch me freak out Chandler.</font>
+Esto será divertido. Mírame asustar a Chandler.
+
+62
+00:04:53,614 --> 00:04:55,700
+<font color='#ffff00'>- Honey? - Yeah?</font>
+- Cariño? - ¿Sí?
+
+63
+00:04:55,867 --> 00:04:58,995
+<font color='#ffff00'>Listen, uh, I've been doing some thinking...</font>
+Escucha, eh, he estado pensando...
+
+64
+00:04:59,245 --> 00:05:03,291
+<font color='#ffff00'>...and I don't know whether it's because we're here...</font>
+...y no sé si es porque estamos aquí...
+
+65
+00:05:03,458 --> 00:05:06,169
+<font color='#ffff00'>...or Rachel's giving birth...</font>
+...o porque Rachel está dando a luz...
+
+66
+00:05:06,335 --> 00:05:10,298
+<font color='#ffff00'>...but, um, I think we should try to have a baby.</font>
+...pero, um, creo que deberíamos intentar tener un bebé.
+
+67
+00:05:13,968 --> 00:05:15,845
+<font color='#ffff00'>Okay.</font>
+Okay.
+
+68
+00:05:17,805 --> 00:05:18,973
+<font color='#ffff00'>What's that now?</font>
+¿Qué dices ahora?
+
+69
+00:05:19,807 --> 00:05:22,685
+<font color='#ffff00'>Okay. I've been thinking about it too. I think we're ready.</font>
+Okay. Yo también he estado pensando en eso. Creo que estamos listos.
+
+70
+00:05:26,272 --> 00:05:29,901
+<font color='#ffff00'>Are you kidding? You think we're ready to have a baby?</font>
+¿Estás bromeando? ¿Crees que estamos listos para tener un bebé?
+
+71
+00:05:30,151 --> 00:05:31,527
+<font color='#ffff00'>Oh, this is fun.</font>
+Oh, esto es divertido.
+
+72
+00:05:33,654 --> 00:05:37,533
+<font color='#ffff00'>You're ready to have a baby? My boy's all grown up!</font>
+¿Estás listo para tener un bebé? ¡Mi niño ya es todo un hombre!
+
+73
+00:05:37,700 --> 00:05:39,368
+<font color='#ffff00'>You said you were ready.</font>
+Dijiste que estabas listo.
+
+74
+00:05:39,535 --> 00:05:43,831
+<font color='#ffff00'>I was screwing with you to get your voice high and weird...</font>
+Te estaba tomando el pelo para que tu voz se pusiera aguda y rara...
+
+75
+00:05:43,998 --> 00:05:45,333
+<font color='#ffff00'>...like mine is now!</font>
+...¡como la mía ahora!
+
+76
+00:05:45,833 --> 00:05:48,711
+<font color='#ffff00'>Yes, but haven't you wanted a kid forever?</font>
+Sí, pero ¿no has querido un hijo para siempre?
+
+77
+00:05:48,920 --> 00:05:51,547
+<font color='#ffff00'>Okay, just back oh', mister!</font>
+Okay, ¡ya basta, señor!
+
+78
+00:05:53,674 --> 00:05:56,677
+<font color='#ffff00'>Because I am ready to have a baby.</font>
+Porque yo sí estoy lista para tener un bebé.
+
+79
+00:05:56,844 --> 00:05:58,179
+<font color='#ffff00'>I just want Joey to be the father.</font>
+Solo quiero que Joey sea el padre.
+
+80
+00:06:00,181 --> 00:06:03,726
+<font color='#ffff00'>- What? Are you crazy? - Right there! That's all I wanted!</font>
+- ¿Qué? ¿Estás loco? - ¡Ahí mismo! ¡Eso es todo lo que quería!
+
+81
+00:06:06,229 --> 00:06:10,107
+<font color='#ffff00'>I'm sorry. The doctor insisted on closing the curtain for the exam.</font>
+Lo siento. El doctor insistió en cerrar la cortina para el examen.
+
+82
+00:06:10,942 --> 00:06:14,237
+<font color='#ffff00'>Oh, that's very... Really, very, very okay.</font>
+Oh, eso está muy... De verdad, muy, muy bien.
+
+83
+00:06:14,445 --> 00:06:19,325
+<font color='#ffff00'>Julie's cervix is dilated 7 centimeters. That's about four fingers!</font>
+El cérvix de Julie está dilatado 7 centímetros. ¡Son como cuatro dedos!
+
+84
+00:06:20,868 --> 00:06:24,205
+<font color='#ffff00'>- Doctor let me feel it. - Have you felt Rachel's?</font>
+- Doctor, déjeme sentirlo. - ¿Has sentido el de Rachel?
+
+85
+00:06:24,413 --> 00:06:27,708
+<font color='#ffff00'>- No, I don't... - We won't be doing that.</font>
+- No, yo no... - No haremos eso.
+
+86
+00:06:27,875 --> 00:06:30,795
+<font color='#ffff00'>Well, you could feel Rachel's, then feel mine to compare.</font>
+Bueno, podrías sentir el de Rachel y luego sentir el mío para comparar.
+
+87
+00:06:32,547 --> 00:06:35,091
+<font color='#ffff00'>- Am I interrupting? - Yes! Thank you!</font>
+- ¿Estoy interrumpiendo? - ¡Sí! ¡Gracias!
+
+88
+00:06:35,258 --> 00:06:37,260
+<font color='#ffff00'>- No, no... - Later.</font>
+- No, no... - Luego.
+
+89
+00:06:37,468 --> 00:06:40,096
+<font color='#ffff00'>- You can't leave me with them. - Sorry.</font>
+- No puedes dejarme con ellos. - Lo siento.
+
+90
+00:06:40,263 --> 00:06:45,268
+<font color='#ffff00'>No, Ross, Ross? Ross? My child has no father!</font>
+No, Ross, ¿Ross? ¿Ross? ¡Mi hijo no tiene padre!
+
+91
+00:06:45,434 --> 00:06:51,065
+<font color='#ffff00'>I'm so glad you're here, but it's gonna be a while. I wish you'd called first.</font>
+Me alegra mucho que estés aquí, pero va a tardar. Ojalá hubieras llamado antes.
+
+92
+00:06:51,274 --> 00:06:53,901
+<font color='#ffff00'>- I'm coming back later with your father. - Oh, good.</font>
+- Vuelvo más tarde con tu padre. - Oh, bien.
+
+93
+00:06:54,068 --> 00:06:58,239
+<font color='#ffff00'>- I need to talk to you before the birth. - Okay. What's up?</font>
+- Necesito hablar contigo antes del parto. - Okay. ¿Qué pasa?
+
+94
+00:06:58,406 --> 00:07:01,325
+<font color='#ffff00'>I brought something that I want to give you.</font>
+Traje algo que quiero darte.
+
+95
+00:07:01,492 --> 00:07:04,787
+<font color='#ffff00'>Assuming, of course, that you want it.</font>
+Asumiendo, claro, que lo quieras.
+
+96
+00:07:05,454 --> 00:07:08,624
+<font color='#ffff00'>Ma, you're asking me to marry you?</font>
+¿Mamá, me estás pidiendo que me case contigo?
+
+97
+00:07:09,750 --> 00:07:14,130
+<font color='#ffff00'>Your grandma's engagement ring, I want you to give it to Rachel.</font>
+El anillo de compromiso de tu abuela, quiero que se lo des a Rachel.
+
+98
+00:07:14,380 --> 00:07:17,842
+<font color='#ffff00'>- Mom, no. Come on. Thank you... - Just hear me out...</font>
+- Mamá, no. Vamos. Gracias... - Solo escúchame...
+
+99
+00:07:18,009 --> 00:07:22,597
+<font color='#ffff00'>No! Okay? We're not getting married because she's pregnant.</font>
+¡No! ¿Okay? No nos vamos a casar porque ella esté embarazada.
+
+100
+00:07:22,763 --> 00:07:29,437
+<font color='#ffff00'>Honestly, this isn't just some girl you picked up in a bar and humped.</font>
+Honestamente, esta no es solo una chica que recogiste en un bar y te la tiraste.
+
+101
+00:07:31,981 --> 00:07:33,941
+<font color='#ffff00'>A child should have a family.</font>
+Un niño debería tener una familia.
+
+102
+00:07:34,150 --> 00:07:36,819
+<font color='#ffff00'>I can't deal with this now. I'm sorry.</font>
+No puedo lidiar con esto ahora. Lo siento.
+
+103
+00:07:36,986 --> 00:07:40,990
+<font color='#ffff00'>Think about it. If you don't, I'll talk more about humping.</font>
+Piénsalo. Si no lo haces, hablaré más sobre el acto sexual.
+
+104
+00:07:41,198 --> 00:07:43,034
+<font color='#ffff00'>Give me that.</font>
+Dámela.
+
+105
+00:07:43,618 --> 00:07:47,038
+<font color='#ffff00'>- Hi, dear. - Hi. Thank you so much for coming.</font>
+- Hola, cariño. - Hola. Muchas gracias por venir.
+
+106
+00:07:47,288 --> 00:07:49,040
+<font color='#ffff00'>Ross, get in here!</font>
+¡Ross, entra aquí!
+
+107
+00:07:53,920 --> 00:07:57,465
+<font color='#ffff00'>She dragged me out of the labor room to ask me why I'm not with Rachel.</font>
+Me sacó de la sala de partos para preguntarme por qué no estoy con Rachel.
+
+108
+00:07:57,798 --> 00:07:59,926
+<font color='#ffff00'>Yeah.</font>
+Sí.
+
+109
+00:08:00,343 --> 00:08:04,472
+<font color='#ffff00'>- Why aren't you with Rachel? - Are you kidding?</font>
+- ¿Por qué no estás con Rachel? - ¿Me estás bromeando?
+
+110
+00:08:04,639 --> 00:08:08,559
+<font color='#ffff00'>We're not gonna be together because we're having a baby.</font>
+No vamos a estar juntos porque vamos a tener un bebé.
+
+111
+00:08:08,809 --> 00:08:11,020
+<font color='#ffff00'>It seems you belong together.</font>
+Parece que ustedes pertenecen juntos.
+
+112
+00:08:11,187 --> 00:08:15,191
+<font color='#ffff00'>I can't deal with this right now. I have to go have a baby.</font>
+No puedo lidiar con esto ahora. Tengo que ir a tener un bebé.
+
+113
+00:08:15,441 --> 00:08:17,985
+<font color='#ffff00'>Right. And with who again?</font>
+Cierto. ¿Y con quién era?
+
+114
+00:08:19,070 --> 00:08:22,531
+<font color='#ffff00'>He's crazy. Why doesn't he wanna be with Rachel?</font>
+Está loco. ¿Por qué no quiere estar con Rachel?
+
+115
+00:08:22,740 --> 00:08:23,824
+<font color='#ffff00'>I know.</font>
+Lo sé.
+
+116
+00:08:23,991 --> 00:08:28,371
+<font color='#ffff00'>She's like the perfect woman. I know she turned me down...</font>
+Ella es como la mujer perfecta. Sé que me rechazó...
+
+117
+00:08:28,537 --> 00:08:33,876
+<font color='#ffff00'>...but if she wanted to be with me, I would take her in my arms and...</font>
+...pero si ella quisiera estar conmigo, la tomaría en mis brazos y...
+
+118
+00:08:37,463 --> 00:08:40,257
+<font color='#ffff00'>I haven't bummed you guys out like this in a while.</font>
+No los he desanimado así en un tiempo.
+
+119
+00:08:44,971 --> 00:08:46,263
+<font color='#ffff00'>- Hey. - Hey.</font>
+- Hola. - Hola.
+
+120
+00:08:46,472 --> 00:08:49,058
+<font color='#ffff00'>- Who's that? - New people.</font>
+- ¿Quiénes son? - Gente nueva.
+
+121
+00:08:50,893 --> 00:08:53,104
+<font color='#ffff00'>What happened to the Disgustingtons?</font>
+¿Qué pasó con los Disgustingtons?
+
+122
+00:08:53,854 --> 00:08:59,235
+<font color='#ffff00'>They're having their baby. It's not fair, Ross. I got here first!</font>
+Están teniendo a su bebé. No es justo, Ross. ¡Yo llegué primero!
+
+123
+00:08:59,402 --> 00:09:02,071
+<font color='#ffff00'>After you left, they wheeled her off.</font>
+Después de que te fuiste, se la llevaron.
+
+124
+00:09:02,238 --> 00:09:08,411
+<font color='#ffff00'>Not before she gave me a nice, juicy shot of little Jamie, crowning away.</font>
+No sin antes darme una buena y jugosa toma del pequeño Jamie, asomando.
+
+125
+00:09:08,619 --> 00:09:10,204
+<font color='#ffff00'>- Wow. Sorry. - Ugh.</font>
+- Vaya. Lo siento. - Uf.
+
+126
+00:09:10,371 --> 00:09:13,040
+<font color='#ffff00'>So, uh, how are the new people?</font>
+Entonces, eh, ¿cómo son los nuevos?
+
+127
+00:09:13,249 --> 00:09:16,961
+<font color='#ffff00'>Well, they have some unusual pet names for each other.</font>
+Bueno, tienen nombres de mascotas un poco inusuales para el otro.
+
+128
+00:09:17,128 --> 00:09:22,425
+<font color='#ffff00'>Including, um, "Evil Bitch" and, uh, "Sick Bastard."</font>
+Incluyendo, um, "Bitch Maligna" y, eh, "Bastardo Enfermo".
+
+129
+00:09:23,884 --> 00:09:28,556
+<font color='#ffff00'>- Oh, gosh, a contraction. Ooh, ow! - Yeah? Okay, okay. Just breathe.</font>
+- Oh, Dios, una contracción. ¡Ay, ay! - ¿Sí? Ok, ok. Solo respira.
+
+130
+00:09:28,723 --> 00:09:30,725
+<font color='#ffff00'>- Are you looking at her? - No!</font>
+- ¿La estás mirando? - ¡No!
+
+131
+00:09:30,933 --> 00:09:36,147
+<font color='#ffff00'>- Don't look at her, you sick bastard! - I swear I wasn't looking at her!</font>
+- ¡No la mires, bastardo enfermo! - ¡Juro que no la estaba mirando!
+
+132
+00:09:36,397 --> 00:09:40,067
+<font color='#ffff00'>She's in labor. You like that, you sick son of a bitch?</font>
+Ella está de parto. ¿Te gusta eso, hijo de puta?
+
+133
+00:09:44,405 --> 00:09:45,614
+<font color='#ffff00'>I'm just gonna...</font>
+Solo voy a...
+
+134
+00:09:45,781 --> 00:09:48,993
+<font color='#ffff00'>See? It's because you were looking, you fat pervert.</font>
+¿Ves? Es porque la estabas mirando, pervertido gordo.
+
+135
+00:09:49,785 --> 00:09:53,831
+<font color='#ffff00'>No, no. I'm sure no one was looking. Just want some privacy.</font>
+No, no. Estoy seguro de que nadie estaba mirando. Solo quiero algo de privacidad.
+
+136
+00:09:57,793 --> 00:09:59,670
+<font color='#ffff00'>You miss your girlfriend?</font>
+¿Extrañas a tu novia?
+
+137
+00:10:00,963 --> 00:10:03,799
+<font color='#ffff00'>- Just ignore them. - Ugh.</font>
+- Solo ignóralos. - Uf.
+
+138
+00:10:04,050 --> 00:10:06,469
+<font color='#ffff00'>- You okay? - Yeah.</font>
+- ¿Estás bien? - Sí.
+
+139
+00:10:11,098 --> 00:10:12,266
+<font color='#ffff00'>- Ross. - What?</font>
+- Ross. - ¿Qué?
+
+140
+00:10:12,433 --> 00:10:16,103
+<font color='#ffff00'>- He's looking at me. - Hey!</font>
+- Me está mirando. - ¡Oye!
+
+141
+00:10:16,270 --> 00:10:18,189
+<font color='#ffff00'>Wanna live to see your baby?</font>
+¿Quieres vivir para ver a tu bebé?
+
+142
+00:10:18,439 --> 00:10:21,859
+<font color='#ffff00'>Don't you talk to my husband like that, you stupid bastard!</font>
+¡No le hables así a mi esposo, estúpido bastardo!
+
+143
+00:10:26,614 --> 00:10:30,117
+<font color='#ffff00'>Oh, good God! If you want a baby so bad, just go steal it!</font>
+¡Oh, Dios mío! Si quieres un bebé tanto, ¡solo ve y róbalo!
+
+144
+00:10:33,287 --> 00:10:36,582
+<font color='#ffff00'>Since when are you so crazy about babies?</font>
+¿Desde cuándo estás tan loco por los bebés?
+
+145
+00:10:36,791 --> 00:10:41,128
+<font color='#ffff00'>I'm not crazy about babies. I'm crazy about us.</font>
+No estoy loco por los bebés. Estoy loco por nosotros.
+
+146
+00:10:42,838 --> 00:10:43,881
+<font color='#ffff00'>What?</font>
+¿Qué?
+
+147
+00:10:44,131 --> 00:10:47,885
+<font color='#ffff00'>We talk about having babies someday, not now...</font>
+Hablamos de tener bebés algún día, no ahora...
+
+148
+00:10:48,094 --> 00:10:53,307
+<font color='#ffff00'>...but I'm starting to think that we can handle it. We're good.</font>
+...pero estoy empezando a pensar que podemos manejarlo. Somos buenos.
+
+149
+00:10:53,474 --> 00:10:56,143
+<font color='#ffff00'>We're really good.</font>
+Somos realmente buenos.
+
+150
+00:10:56,977 --> 00:10:58,646
+<font color='#ffff00'>We are pretty good.</font>
+Somos bastante buenos.
+
+151
+00:10:58,813 --> 00:11:01,107
+<font color='#ffff00'>But nothing has to happen until you're ready.</font>
+[ERROR API]
+
+152
+00:11:03,734 --> 00:11:05,694
+<font color='#ffff00'>Well, maybe I'm ready now.</font>
+[ERROR API]
+
+153
+00:11:05,903 --> 00:11:09,907
+<font color='#ffff00'>I mean, it's a little scary, but maybe it's right.</font>
+[ERROR API]
+
+154
+00:11:10,157 --> 00:11:13,160
+<font color='#ffff00'>It's not right! We're not ready for a kid!</font>
+[ERROR API]
+
+155
+00:11:13,494 --> 00:11:16,580
+<font color='#ffff00'>- What? - I'm kidding. This is gonna be fun.</font>
+[ERROR API]
+
+156
+00:11:19,333 --> 00:11:23,170
+<font color='#ffff00'>So we're gonna try? I mean, we're trying?</font>
+[ERROR API]
+
+157
+00:11:23,379 --> 00:11:25,214
+<font color='#ffff00'>We're trying to get pregnant.</font>
+[ERROR API]
+
+158
+00:11:26,423 --> 00:11:28,217
+<font color='#ffff00'>Mm.</font>
+Mm.
+
+159
+00:11:30,219 --> 00:11:33,889
+<font color='#ffff00'>I'm not comfortable doing this in front of the babies.</font>
+[ERROR API]
+
+160
+00:11:34,140 --> 00:11:39,520
+<font color='#ffff00'>- So when do you want to start trying? - All right, hold on a sec.</font>
+[ERROR API]
+
+161
+00:11:39,854 --> 00:11:42,523
+<font color='#ffff00'>- Period math? - Yeah.</font>
+[ERROR API]
+
+162
+00:11:44,191 --> 00:11:47,444
+<font color='#ffff00'>Well, we could start trying now.</font>
+[ERROR API]
+
+163
+00:11:47,862 --> 00:11:52,283
+<font color='#ffff00'>- Right here? - No, not here.</font>
+- ¿Justo aquí? - No, no aquí.
+
+164
+00:11:52,449 --> 00:11:54,118
+<font color='#ffff00'>Maybe here.</font>
+Quizás aquí.
+
+165
+00:11:55,035 --> 00:11:59,206
+<font color='#ffff00'>We got time to kill. We're in a building that's full of beds!</font>
+[ERROR API]
+
+166
+00:11:59,415 --> 00:12:00,624
+<font color='#ffff00'>And it's so clean!</font>
+[ERROR API]
+
+167
+00:12:08,007 --> 00:12:11,051
+<font color='#ffff00'>Come on, you stupid machine! Come on!</font>
+[ERROR API]
+
+168
+00:12:11,218 --> 00:12:15,097
+<font color='#ffff00'>- Aw, it ate your money? - No.</font>
+[ERROR API]
+
+169
+00:12:18,309 --> 00:12:20,603
+<font color='#ffff00'>- I'll see you downstairs then. - All right.</font>
+[ERROR API]
+
+170
+00:12:20,769 --> 00:12:22,438
+<font color='#ffff00'>All right.</font>
+De acuerdo.
+
+171
+00:12:22,771 --> 00:12:25,649
+<font color='#ffff00'>Hey, I got one! I got one!</font>
+[ERROR API]
+
+172
+00:12:28,527 --> 00:12:29,570
+<font color='#ffff00'>- Hi. - Hi.</font>
+- Hola. - Hola.
+
+173
+00:12:29,737 --> 00:12:33,407
+<font color='#ffff00'>- Oh, up or down'? - Oh. Down, please.</font>
+[ERROR API]
+
+174
+00:12:36,410 --> 00:12:38,787
+<font color='#ffff00'>I hate to be a ball-buster, but can I just do it?</font>
+[ERROR API]
+
+175
+00:12:42,541 --> 00:12:45,127
+<font color='#ffff00'>- Could you press up too? - Sure.</font>
+[ERROR API]
+
+176
+00:12:46,670 --> 00:12:50,966
+<font color='#ffff00'>- I feel bad. I broke my leg once too. - How did yours happen?</font>
+[ERROR API]
+
+177
+00:12:51,175 --> 00:12:53,594
+<font color='#ffff00'>It's a long, embarrassing story.</font>
+[ERROR API]
+
+178
+00:12:53,761 --> 00:12:57,848
+<font color='#ffff00'>Let's just say, there was a typographical error with a sex manual.</font>
+[ERROR API]
+
+179
+00:12:59,934 --> 00:13:01,685
+<font color='#ffff00'>- How about you? - Car accident.</font>
+[ERROR API]
+
+180
+00:13:01,936 --> 00:13:06,690
+<font color='#ffff00'>- Idiot on a cell not paying attention? - Yeah. Me.</font>
+[ERROR API]
+
+181
+00:13:08,734 --> 00:13:11,779
+<font color='#ffff00'>- Oh, hey, that's me. - Okay.</font>
+[ERROR API]
+
+182
+00:13:12,488 --> 00:13:14,657
+<font color='#ffff00'>Hey, uh, I take it you're just visiting someone.</font>
+[ERROR API]
+
+183
+00:13:14,865 --> 00:13:15,908
+<font color='#ffff00'>Uh-huh. Yeah.</font>
+Ajá. Sí.
+
+184
+00:13:16,075 --> 00:13:20,246
+<font color='#ffff00'>Well, um, if you have some time, and you wanna visit someone else...</font>
+[ERROR API]
+
+185
+00:13:20,496 --> 00:13:22,206
+<font color='#ffff00'>Yeah. I would like that.</font>
+[ERROR API]
+
+186
+00:13:22,373 --> 00:13:28,170
+<font color='#ffff00'>- Great. I'm in room... - Wait! What? No! Elevator! No!</font>
+[ERROR API]
+
+187
+00:13:28,379 --> 00:13:30,798
+<font color='#ffff00'>You gotta press the button.</font>
+[ERROR API]
+
+188
+00:13:35,010 --> 00:13:36,971
+<font color='#ffff00'>They're bringing in another woman.</font>
+[ERROR API]
+
+189
+00:13:37,137 --> 00:13:40,182
+<font color='#ffff00'>Ugh. Is she pregnant yet?</font>
+[ERROR API]
+
+190
+00:13:40,391 --> 00:13:44,979
+<font color='#ffff00'>She doesn't need to be. She'll still have the baby before I do.</font>
+[ERROR API]
+
+191
+00:13:45,145 --> 00:13:48,816
+<font color='#ffff00'>- Oh, Ross! Another contraction. - Oh, okay. Here, here.</font>
+[ERROR API]
+
+192
+00:13:48,983 --> 00:13:52,695
+<font color='#ffff00'>- Ooh, ooh, ooh, ow, ooh, ow! - That's it.</font>
+[ERROR API]
+
+193
+00:13:52,861 --> 00:13:57,366
+<font color='#ffff00'>- Oh, that sounded like a bad one. - Yeah, it was.</font>
+[ERROR API]
+
+194
+00:13:57,574 --> 00:14:00,911
+<font color='#ffff00'>Mine haven't been so bad. Oh, here comes one now.</font>
+[ERROR API]
+
+195
+00:14:01,078 --> 00:14:04,540
+<font color='#ffff00'>Mm, mm.</font>
+Mm, mm.
+
+196
+00:14:07,126 --> 00:14:09,586
+<font color='#ffff00'>Oh, that was a big one.</font>
+[ERROR API]
+
+197
+00:14:15,301 --> 00:14:19,722
+<font color='#ffff00'>Could you help me'? The patient I'm looking for has a broken leg.</font>
+[ERROR API]
+
+198
+00:14:19,888 --> 00:14:24,268
+<font color='#ffff00'>He's in a wheelchair. He's early to mid-30$, very attractive.</font>
+[ERROR API]
+
+199
+00:14:24,518 --> 00:14:29,064
+<font color='#ffff00'>- I know who you're talking about. - Yay! Great! What room is he in?</font>
+[ERROR API]
+
+200
+00:14:29,273 --> 00:14:32,067
+<font color='#ffff00'>Sorry. That information is restricted.</font>
+[ERROR API]
+
+201
+00:14:32,234 --> 00:14:37,906
+<font color='#ffff00'>- She's with me. Dr. Drake Ramoray. - Dr. Drake who?</font>
+- Está conmigo. Dr. Drake Ramoray. - ¿Dr. Drake quién?
+
+202
+00:14:38,115 --> 00:14:43,746
+<font color='#ffff00'>Ramoray. It's Portuguese. We need that information. I'm a doctor.</font>
+Ramoray. Es portugués. Necesitamos esa información. Soy doctor.
+
+203
+00:14:44,038 --> 00:14:48,042
+<font color='#ffff00'>- At this hospital? - Damn it! We're losing precious time.</font>
+- ¿En este hospital? - ¡Maldición! Estamos perdiendo tiempo valioso.
+
+204
+00:14:48,208 --> 00:14:49,960
+<font color='#ffff00'>You want this man's blood on your head...</font>
+Quieres la sangre de este hombre en tu conciencia...
+
+205
+00:14:50,127 --> 00:14:52,421
+<font color='#ffff00'>- Hands. - Hands.</font>
+- Manos. - Manos.
+
+206
+00:14:52,588 --> 00:14:57,509
+<font color='#ffff00'>It is essential that you tell me what room he is staying in.</font>
+Es esencial que me diga en qué habitación se está quedando.
+
+207
+00:14:57,676 --> 00:14:59,887
+<font color='#ffff00'>He's a patient of mine.</font>
+Es un paciente mío.
+
+208
+00:15:00,095 --> 00:15:02,639
+<font color='#ffff00'>- He's in room 816. - 816. Thank you.</font>
+- Está en la habitación 816. - 816. Gracias.
+
+209
+00:15:02,806 --> 00:15:05,601
+<font color='#ffff00'>- And what is his name? - No.</font>
+- ¿Y cómo se llama? - No.
+
+210
+00:15:15,652 --> 00:15:19,073
+<font color='#ffff00'>- I think we found a place. - Okay.</font>
+- Creo que encontramos un lugar. - De acuerdo.
+
+211
+00:15:21,825 --> 00:15:25,120
+<font color='#ffff00'>- Wait. Wanna set the mood a little? - Okay.</font>
+- Espera. ¿Quieres crear un poco de ambiente? - De acuerdo.
+
+212
+00:15:25,287 --> 00:15:27,831
+<font color='#ffff00'>- We'll dim the lights. - Okay.</font>
+- Atenuaremos las luces. - De acuerdo.
+
+213
+00:15:27,998 --> 00:15:31,001
+<font color='#ffff00'>Or turn them out altogether.</font>
+O apagarlas por completo.
+
+214
+00:15:31,919 --> 00:15:36,215
+<font color='#ffff00'>Uh, no scented candles. Okay, here. There we go.</font>
+Uh, no velas aromáticas. De acuerdo, aquí. Ahí está.
+
+215
+00:15:36,382 --> 00:15:40,135
+<font color='#ffff00'>Okay, okay. Making me sterile, but okay.</font>
+Okay, okay. Me estás volviendo estéril, pero está bien.
+
+216
+00:15:44,390 --> 00:15:47,893
+<font color='#ffff00'>Okay. I'm sorry. Oh, wait. Do we have a condom?</font>
+Okay. Lo siento. Oh, espera. ¿Tenemos condón?
+
+217
+00:15:49,686 --> 00:15:51,605
+<font color='#ffff00'>Oh, right! Ha, ha.</font>
+¡Oh, claro! Ja, ja.
+
+218
+00:15:59,405 --> 00:16:02,366
+<font color='#ffff00'>Yes, 98.6. You're gonna be fine.</font>
+Sí, 37. Vas a estar bien.
+
+219
+00:16:06,036 --> 00:16:07,329
+<font color='#ffff00'>Ooh, this is it!</font>
+¡Ooh, aquí es!
+
+220
+00:16:08,455 --> 00:16:11,125
+<font color='#ffff00'>- That's him! - Great. Go get him!</font>
+- ¡Ese es él! - Genial. ¡Ve por él!
+
+221
+00:16:11,834 --> 00:16:15,003
+<font color='#ffff00'>Wait a second. Or maybe you could go in first.</font>
+Espera un segundo. O tal vez podrías entrar tú primero.
+
+222
+00:16:15,921 --> 00:16:17,548
+<font color='#ffff00'>He's not really my type.</font>
+Él no es realmente mi tipo.
+
+223
+00:16:18,632 --> 00:16:22,928
+<font color='#ffff00'>Not you. Dr. Ramoray. Ask him questions and see what he's like.</font>
+No tú. El Dr. Ramoray. Hazle preguntas y ve cómo es.
+
+224
+00:16:23,137 --> 00:16:26,723
+<font color='#ffff00'>- People tell doctors everything. - You said he's great.</font>
+- La gente les cuenta todo a los doctores. - Dijiste que es genial.
+
+225
+00:16:26,932 --> 00:16:31,353
+<font color='#ffff00'>Guys I meet seem nice at first, then turn out to be big jerks.</font>
+Los chicos que conozco parecen agradables al principio, y luego resultan ser unos imbéciles.
+
+226
+00:16:31,562 --> 00:16:34,815
+<font color='#ffff00'>- You do attract some stinkers. - I know.</font>
+- Sí que atraes a unos patanes. - Lo sé.
+
+227
+00:16:35,774 --> 00:16:39,319
+<font color='#ffff00'>Dr. Long, I've been at this for 17 hours.</font>
+Dr. Long, he estado en esto por 17 horas.
+
+228
+00:16:39,486 --> 00:16:42,072
+<font color='#ffff00'>Three women have had their babies.</font>
+Tres mujeres han dado a luz.
+
+229
+00:16:42,281 --> 00:16:46,994
+<font color='#ffff00'>Give me good news. How many centimeters am I dilated? Eight? Nine?</font>
+Dame buenas noticias. ¿Cuántos centímetros tengo de dilatación? ¿Ocho? ¿Nueve?
+
+230
+00:16:47,161 --> 00:16:49,329
+<font color='#ffff00'>- Three. - Just 3?</font>
+- Tres. - ¿Solo 3?
+
+231
+00:16:49,538 --> 00:16:51,915
+<font color='#ffff00'>I'm dilated 3!</font>
+¡Tengo 3 de dilatación!
+
+232
+00:16:53,959 --> 00:16:58,380
+<font color='#ffff00'>We are moving along slowly. Don't worry, you're doing great.</font>
+Estamos avanzando lentamente. No te preocupes, lo estás haciendo genial.
+
+233
+00:16:58,547 --> 00:17:01,967
+<font color='#ffff00'>- I'll be back soon. - Thank you.</font>
+- Volveré pronto. - Gracias.
+
+234
+00:17:03,677 --> 00:17:06,930
+<font color='#ffff00'>I'm not waiting. I'm gonna push this baby out.</font>
+No voy a esperar. Voy a dar a luz a este bebé.
+
+235
+00:17:07,097 --> 00:17:12,019
+<font color='#ffff00'>I'm doing it. Three centimeters. That's gotta be like this, right?</font>
+Lo estoy haciendo. Tres centímetros. Tiene que ser así, ¿verdad?
+
+236
+00:17:12,561 --> 00:17:18,275
+<font color='#ffff00'>- Actually, it's more like this. - Oh, stupid metric system.</font>
+- En realidad, es más así. - Oh, estúpido sistema métrico.
+
+237
+00:17:19,359 --> 00:17:21,612
+<font color='#ffff00'>Oh! Oh! Oh!</font>
+¡Oh! ¡Oh! ¡Oh!
+
+238
+00:17:21,945 --> 00:17:24,990
+<font color='#ffff00'>We'll take you straight to the delivery room.</font>
+Te llevaremos directamente a la sala de partos.
+
+239
+00:17:25,199 --> 00:17:28,911
+<font color='#ffff00'>Oh, for the love of God!</font>
+¡Oh, por el amor de Dios!
+
+240
+00:17:30,037 --> 00:17:35,042
+<font color='#ffff00'>I'm Dr. Drake Ramoray. I have a few routine questions I need to ask you.</font>
+Soy el Dr. Drake Ramoray. Tengo algunas preguntas de rutina que necesito hacerle.
+
+241
+00:17:35,959 --> 00:17:38,253
+<font color='#ffff00'>I've been dealing with Dr. Wells.</font>
+He estado tratando con la Dra. Wells.
+
+242
+00:17:38,462 --> 00:17:41,548
+<font color='#ffff00'>I know. I'm a neurologist. To be safe...</font>
+Lo sé. Soy neurólogo. Para estar seguros...
+
+243
+00:17:41,715 --> 00:17:46,803
+<font color='#ffff00'>...Dr. Wells wanted a more comprehensive overview. So he sent me.</font>
+...la Dra. Wells quería una evaluación más completa. Por eso me envió.
+
+244
+00:17:47,221 --> 00:17:48,972
+<font color='#ffff00'>Dr. Wells is a woman.</font>
+La Dra. Wells es una mujer.
+
+245
+00:17:50,891 --> 00:17:53,852
+<font color='#ffff00'>That was a test. Good response.</font>
+Eso fue una prueba. Buena respuesta.
+
+246
+00:17:55,437 --> 00:17:58,732
+<font color='#ffff00'>- All right. Uh, full name? - Clifford Burnett.</font>
+- Muy bien. Uh, ¿nombre completo? - Clifford Burnett.
+
+247
+00:17:58,899 --> 00:18:02,236
+<font color='#ffff00'>- Date of birth? - November 16, 1968.</font>
+- ¿Fecha de nacimiento? - 16 de noviembre de 1968.
+
+248
+00:18:02,402 --> 00:18:03,654
+<font color='#ffff00'>Age?</font>
+¿Edad?
+
+249
+00:18:05,239 --> 00:18:10,661
+<font color='#ffff00'>- Can't you figure that out? - I'm a doctor, not a mathematician.</font>
+- ¿No puedes calcularlo? - Soy doctor, no matemático.
+
+250
+00:18:11,662 --> 00:18:14,540
+<font color='#ffff00'>- I'm 33. - Okay.</font>
+- Tengo 33. - De acuerdo.
+
+251
+00:18:15,499 --> 00:18:17,876
+<font color='#ffff00'>- And, uh, are you married? - No.</font>
+[ERROR API]
+
+252
+00:18:18,085 --> 00:18:24,758
+<font color='#ffff00'>Oh, really? So 33 and single? Would you say you have commitment issues?</font>
+[ERROR API]
+
+253
+00:18:26,051 --> 00:18:29,096
+<font color='#ffff00'>Are all the questions this personal?</font>
+[ERROR API]
+
+254
+00:18:29,263 --> 00:18:30,806
+<font color='#ffff00'>Yes.</font>
+Sí.
+
+255
+00:18:32,015 --> 00:18:35,269
+<font color='#ffff00'>Well, if you must know, I'm a widower.</font>
+[ERROR API]
+
+256
+00:18:35,435 --> 00:18:39,481
+<font color='#ffff00'>- Oh, that's terrible. I'm really sorry. - Yeah.</font>
+[ERROR API]
+
+257
+00:18:39,940 --> 00:18:43,235
+<font color='#ffff00'>Do you sleep with women and never call them again?</font>
+¿Te acuestas con mujeres y nunca las vuelves a llamar?
+
+258
+00:18:45,279 --> 00:18:47,155
+<font color='#ffff00'>- No. - Excellent. Excellent.</font>
+[ERROR API]
+
+259
+00:18:47,322 --> 00:18:51,577
+<font color='#ffff00'>And, uh, finally, are you into any weird stuff, you know, sexually?</font>
+[ERROR API]
+
+260
+00:18:53,870 --> 00:18:56,373
+<font color='#ffff00'>- No! - Ooh. Wrong answer.</font>
+[ERROR API]
+
+261
+00:18:59,710 --> 00:19:01,920
+<font color='#ffff00'>- What else? What else? - Uh, he's 33.</font>
+[ERROR API]
+
+262
+00:19:02,087 --> 00:19:03,130
+<font color='#ffff00'>Uh-huh.</font>
+Ajá.
+
+263
+00:19:03,297 --> 00:19:04,548
+<font color='#ffff00'>- A widower. - Oh.</font>
+[ERROR API]
+
+264
+00:19:04,798 --> 00:19:09,052
+<font color='#ffff00'>He seemed like a standup guy. And he's not into anything weird sexually.</font>
+[ERROR API]
+
+265
+00:19:11,430 --> 00:19:12,889
+<font color='#ffff00'>Enter Pheebs.</font>
+[ERROR API]
+
+266
+00:19:16,476 --> 00:19:19,980
+<font color='#ffff00'>- This room's available. - Okay! Wait, listen to me!</font>
+[ERROR API]
+
+267
+00:19:20,147 --> 00:19:22,608
+<font color='#ffff00'>Since I've been waiting, four women...</font>
+[ERROR API]
+
+268
+00:19:22,816 --> 00:19:26,445
+<font color='#ffff00'>...one higher than the centimeters I'm dilated...</font>
+[ERROR API]
+
+269
+00:19:26,612 --> 00:19:31,950
+<font color='#ffff00'>...have come and gone with their babies. I'm next. My turn. It's only fair.</font>
+[ERROR API]
+
+270
+00:19:32,117 --> 00:19:36,246
+<font color='#ffff00'>If you bring in one more woman who has her baby before me, I will sue you.</font>
+[ERROR API]
+
+271
+00:19:37,623 --> 00:19:41,918
+<font color='#ffff00'>Not this hospital. I'm gonna sue you. My husband is a lawyer.</font>
+[ERROR API]
+
+272
+00:19:42,085 --> 00:19:45,922
+<font color='#ffff00'>- Uh, Rach? - You get back on that case, honey!</font>
+[ERROR API]
+
+273
+00:19:46,131 --> 00:19:49,176
+<font color='#ffff00'>I don't think the next patient is far along.</font>
+[ERROR API]
+
+274
+00:19:49,384 --> 00:19:52,971
+<font color='#ffff00'>Okay. Well, then bring her in.</font>
+[ERROR API]
+
+275
+00:20:01,146 --> 00:20:06,568
+<font color='#ffff00'>Oh, my God!</font>
+¡Oh, Dios mío!
+
+276
+00:20:20,207 --> 00:20:24,211
+<font color='#ffff00'>I can't believe this!</font>
+¡No puedo creerlo!
+
+277
+00:20:25,754 --> 00:20:28,882
+<font color='#ffff00'>And yet, somehow, it's true.</font>
+[ERROR API]
+
+278
+00:20:31,051 --> 00:20:35,472
+<font color='#ffff00'>I mean, this is so great. We're gonna be baby buddies!</font>
+[ERROR API]
+
+279
+00:20:37,766 --> 00:20:41,186
+<font color='#ffff00'>Squeeze your legs together, cover the baby's ears.</font>
+[ERROR API]
+
+280
+00:20:41,561 --> 00:20:44,815
+<font color='#ffff00'>- Hi, sweetie! - Hi, sweetheart.</font>
+[ERROR API]
+
+281
+00:20:44,981 --> 00:20:48,735
+<font color='#ffff00'>This is my husband, Sid. I don't think you've met. Ross, Rachel, this is Sid.</font>
+[ERROR API]
+
+282
+00:20:48,902 --> 00:20:54,700
+<font color='#ffff00'>I nabbed him at the dermatologist's. Thank God for adult acne!</font>
+[ERROR API]
+
+283
+00:20:54,908 --> 00:20:57,953
+<font color='#ffff00'>I can't believe it. I'm the luckiest guy in the world.</font>
+[ERROR API]
+
+284
+00:20:58,995 --> 00:21:00,831
+<font color='#ffff00'>Really?</font>
+¿En serio?
+
+285
+00:21:01,832 --> 00:21:02,916
+<font color='#ffff00'>What did he say?</font>
+¿Qué dijo?
+
+286
+00:21:03,125 --> 00:21:06,962
+<font color='#ffff00'>You have to speak loudly, he's almost completely deaf.</font>
+[ERROR API]
+
+287
+00:21:07,170 --> 00:21:10,590
+<font color='#ffff00'>- Oh, there you go. - Of course he is.</font>
+[ERROR API]
+
+288
+00:21:10,757 --> 00:21:14,761
+<font color='#ffff00'>Congratulations. I didn't even know you got married.</font>
+[ERROR API]
+
+289
+00:21:15,011 --> 00:21:16,596
+<font color='#ffff00'>- Oh, no. We didn't. - No, no, we...</font>
+[ERROR API]
+
+290
+00:21:16,805 --> 00:21:18,181
+<font color='#ffff00'>What?</font>
+¿Qué?
+
+291
+00:21:18,432 --> 00:21:22,894
+<font color='#ffff00'>We're just having this baby together, but, uh, that's all. You know?</font>
+[ERROR API]
+
+292
+00:21:24,020 --> 00:21:25,814
+<font color='#ffff00'>Why?</font>
+¿Por qué?
+
+293
+00:21:27,441 --> 00:21:34,322
+<font color='#ffff00'>Uh, we're just not in that place, you know? But we're very excited about this.</font>
+[ERROR API]
+
+294
+00:21:34,531 --> 00:21:37,367
+<font color='#ffff00'>Oh. Well, then shut me up.</font>
+[ERROR API]
+
+295
+00:21:38,452 --> 00:21:39,494
+<font color='#ffff00'>Just tell me how.</font>
+[ERROR API]
+
+296
+00:21:41,455 --> 00:21:43,707
+<font color='#ffff00'>Uh-oh. Oh, I feel another one coming.</font>
+[ERROR API]
+
+297
+00:21:43,874 --> 00:21:48,879
+<font color='#ffff00'>Heh, heh, heh, heh, heh, heh, heh, heh!</font>
+[ERROR API]
+

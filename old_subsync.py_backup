@@ -1,0 +1,330 @@
+#!/usr/bin/env python3
+# /// script
+# dependencies = ["pysubs2", "google-generativeai", "cloudscraper", "beautifulsoup4", "questionary", "rich"]
+# ///
+
+import os, re, time, zipfile, json, urllib.parse, shutil, logging, difflib
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from threading import Lock
+import pysubs2, questionary, cloudscraper
+from bs4 import BeautifulSoup
+import warnings
+warnings.simplefilter('ignore')
+import google.generativeai as genai
+from rich.console import Console
+from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn
+from rich.live import Live
+from rich.panel import Panel
+from rich.console import Group
+from collections import deque
+
+class LogManager:
+    def __init__(self, max_len=10):
+        self.logs = deque(maxlen=max_len)
+        self.lock = Lock()
+    
+    def add(self, msg):
+        with self.lock:
+            self.logs.append(msg)
+    
+    def get_text(self):
+        with self.lock:
+            return "\n".join(self.logs)
+
+# --- CONFIGURACIÓN ---
+BASE_DIR = os.getcwd()
+WORK_DIR = os.path.join(BASE_DIR, "workspace")
+OUT_BASE_DIR = os.path.join(BASE_DIR, "subtitle_out")
+CACHE_FILE = os.path.join(BASE_DIR, "translation_cache.json")
+LOG_FILE = os.path.join(BASE_DIR, "subsync.log")
+API_KEY_FILE = os.path.join(BASE_DIR, "apikey.key")
+
+# --- LOGS ---
+logging.basicConfig(filename=LOG_FILE, level=logging.INFO, format='%(asctime)s %(message)s', filemode='w')
+logger = logging.getLogger()
+console = Console()
+scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows', 'desktop': True})
+cache_lock = Lock()
+api_lock = Lock()
+
+# --- API KEY & MODEL CONFIG ---
+def get_api_key():
+    if os.path.exists(API_KEY_FILE):
+        with open(API_KEY_FILE, "r", encoding="utf-8") as f: return f.read().strip()
+    return None
+
+GOOGLE_API_KEY = get_api_key()
+if GOOGLE_API_KEY:
+    genai.configure(api_key=GOOGLE_API_KEY)
+    # CONFIGURACIÓN CLAVE: JSON NATIVO
+    generation_config = genai.types.GenerationConfig(
+        temperature=0.1,
+        response_mime_type="application/json" 
+    )
+    model = genai.GenerativeModel('gemini-2.5-flash-lite', generation_config=generation_config)
+else:
+    model = None
+
+# --- CACHÉ ---
+TRANSLATION_CACHE = {}
+if os.path.exists(CACHE_FILE):
+    try:
+        with open(CACHE_FILE, 'r') as f: TRANSLATION_CACHE = json.load(f)
+    except: pass
+
+def save_cache():
+    with cache_lock:
+        with open(CACHE_FILE, 'w') as f: json.dump(TRANSLATION_CACHE, f, ensure_ascii=False)
+
+# --- TRADUCCIÓN JSON NATIVO ---
+def translate_batch_native(lines):
+    """
+    Envía un bloque y fuerza respuesta JSON nativa.
+    """
+    # 1. Filtrar lo que ya tenemos
+    indices_to_fetch = []
+    texts_to_fetch = []
+    results = [""] * len(lines)
+    
+    for i, text in enumerate(lines):
+        txt_clean = text.strip()
+        if not txt_clean: continue
+        
+        with cache_lock:
+            if txt_clean in TRANSLATION_CACHE:
+                results[i] = TRANSLATION_CACHE[txt_clean]
+            else:
+                indices_to_fetch.append(i)
+                texts_to_fetch.append(txt_clean)
+    
+    if not texts_to_fetch: return results
+
+    # 2. Prompt JSON
+    # Le pasamos la lista y pedimos una lista igual bajo la clave 'data'
+    prompt = f"""
+    ROLE: You are an expert subtitler and translator specializing in American English to Neutral Spanish (Latin American) localization.
+    TASK: Translate the provided list of English subtitle lines into natural, conversational Neutral Spanish.
+
+    INPUT LIST:
+    {json.dumps(texts_to_fetch)}
+
+    STRICT RULES:
+    1. OUTPUT FORMAT: Return ONLY a JSON object with a single key "translations" containing the list of translated strings.
+    2. ORDER: The order of the output list MUST match the input list exactly (Index 0 to {len(texts_to_fetch)-1}).
+    3. NO ECHO: NEVER copy the English text. If you cannot translate it, provide a best guess based on context. 
+       - Exception: Proper names (Joey, Ross, Chandler) should remain kept, but the surrounding text MUST be Spanish.
+    4. NO HALLUCINATIONS: Do not add extra lines or combine lines.
+    5. TONE: Informal, as used in TV shows. "You" -> "Tú" (unless formal context implies "Usted", but default to "Tú").
+    
+    CRITICAL:
+    - If the input is "Yeah." -> Output "Sí." (NOT "Yeah.")
+    - If the input is "Oh my god." -> Output "Dios mío." (NOT "Oh my god.")
+    """
+
+    translations = []
+    
+    # 3. Loop de Intentos
+    for attempt in range(3):
+        try:
+            # OPTIMIZATION: No lock, no sleep for Paid Tier
+            response = model.generate_content(prompt)
+            
+            # Al ser JSON nativo, response.text DEBERÍA ser un JSON válido siempre
+            data = json.loads(response.text)
+            candidates = data.get("translations", [])
+            
+            # Validación de Longitud
+            if len(candidates) != len(texts_to_fetch):
+                logger.warning(f"Descuadre JSON (Esperado {len(texts_to_fetch)}, Recibido {len(candidates)}). Reintentando...")
+                continue
+            
+            # Check for lazy translation (English repetition)
+            is_lazy = False
+            if len(candidates) > 0:
+                english_snippet = " ".join(texts_to_fetch[:3]).lower()
+                spanish_snippet = " ".join(candidates[:3]).lower()
+                ratio = difflib.SequenceMatcher(None, english_snippet, spanish_snippet).ratio()
+                if ratio > 0.8: is_lazy = True
+
+            if is_lazy:
+                logger.warning("Detectada respuesta vaga (inglés repetido). Forzando reintento...")
+                prompt += "\n\nCRITICAL ERROR: You returned English text. YOU MUST TRANSLATE TO SPANISH."
+                continue
+ 
+            translations = candidates
+            break # Éxito
+
+        except Exception as e:
+            if "429" in str(e): 
+                logger.warning("Quota limit (429). Waiting 20s...")
+                time.sleep(20)
+                continue
+            logger.error(f"Error Batch JSON: {e}")
+            # Si falla JSON, intentamos el siguiente loop
+            
+    # 4. Asignar resultados
+    # Si falló todo, rellenamos con un marcador visual claro, no con inglés
+    if not translations:
+        translations = ["[ERROR API]"] * len(texts_to_fetch)
+        # Fallback de última oportunidad línea a línea (lento pero seguro)
+        if len(texts_to_fetch) < 5: # Solo si son pocos para no eternizar
+             translations = [translate_single_emergency(t) for t in texts_to_fetch]
+
+    for i, idx_global in enumerate(indices_to_fetch):
+        if i < len(translations):
+            final_txt = translations[i]
+            results[idx_global] = final_txt
+            if "[ERROR" not in final_txt:
+                with cache_lock: TRANSLATION_CACHE[texts_to_fetch[i]] = final_txt
+
+    return results
+
+def translate_single_emergency(text):
+    """Último recurso: pregunta directa simple."""
+    try:
+        # Desactivamos JSON mode para este fallback simple
+        model_txt = genai.GenerativeModel('gemini-2.5-flash-lite') 
+        res = model_txt.generate_content(f"¿Cómo se dice '{text}' en español? Solo la respuesta.")
+        return res.text.strip()
+    except:
+        return text
+
+def process_episode(f_en, en_dir, out_dir, series_name, progress, task_id, log_mgr):
+    try:
+        log_mgr.add(f"[cyan]Iniciando: {f_en}[/cyan]")
+        path_en = os.path.join(en_dir, f_en)
+        try: subs = pysubs2.load(path_en, encoding="utf-8")
+        except: 
+            try: subs = pysubs2.load(path_en, encoding="latin-1")
+            except: return
+
+        clean_lines = [line.text.replace("\\N", " ").strip() for line in subs]
+        
+        progress.update(task_id, description="[cyan]Traduciendo (JSON Nativo)...", total=len(subs))
+        
+        BATCH_SIZE = 50
+        all_translations = []
+        
+        for i in range(0, len(clean_lines), BATCH_SIZE):
+            batch = clean_lines[i : i + BATCH_SIZE]
+            
+            # Log discreto para no saturar
+            if i % (BATCH_SIZE * 5) == 0:
+                 log_mgr.add(f"[dim]Proc {f_en[:10]}... Batch {i//BATCH_SIZE}[/dim]")
+                 
+            translated_batch = translate_batch_native(batch)
+            all_translations.extend(translated_batch)
+            progress.advance(task_id, len(batch))
+
+        for i, line in enumerate(subs):
+            original = clean_lines[i]
+            if not original: continue
+            
+            spanish = all_translations[i] if i < len(all_translations) else "[Falta]"
+            line.text = f"<font color='#ffff00'>{original}</font>\\N{spanish}"
+
+        tag_match = re.search(r'(S\d+E\d+|\d+x\d+)', f_en, re.IGNORECASE)
+        tag = tag_match.group(1).upper() if tag_match else f_en[:10]
+        
+        subs.save(os.path.join(out_dir, f"{series_name}_{tag}_Dual.srt"), encoding="utf-8")
+        progress.update(task_id, description=f"[green]✓ {tag}")
+        log_mgr.add(f"[bold green]Terminado: {tag}[/bold green]")
+
+    except Exception as e:
+        logger.error(f"Error {f_en}: {e}")
+        progress.update(task_id, description="[red]Error")
+        log_mgr.add(f"[bold red]ERROR {f_en}: {e}[/bold red]")
+
+def main():
+    console.print(Panel("[bold white on blue] SUBSYNC: GEMINI 2.5 FLASH-LITE [/bold white on blue]"))
+    
+    if not GOOGLE_API_KEY: console.print("[red]Falta apikey.key[/red]"); return
+
+    query = questionary.text("Serie:").ask()
+    if not query: return
+    
+    try:
+        resp = scraper.post("https://www.tvsubtitles.net/search.php", data={'qs': query})
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        results = [{"display": a.get_text().strip(), "href": a['href']} for a in soup.find_all('a', href=re.compile(r'/tvshow-\d+\.html'))]
+    except: return
+
+    if not results: return
+    choice = questionary.select("Elige:", choices=[r['display'] for r in results]).ask()
+    selected = next(r for r in results if r['display'] == choice)
+    
+    s_in = questionary.text("Temporada ('n' para todas):").ask()
+    if s_in.lower() in ['1-n', 'all', 'n']: s_list = None
+    else: s_list = [int(x) for x in s_in.split(',') if x.strip().isdigit()]
+    
+    threads_in = questionary.text("Hilos (Enter = 8):", default="8").ask()
+    try: max_threads = int(threads_in)
+    except: max_threads = 8
+
+    idx = 0
+    while True:
+        s_num = idx + 1 if s_list is None else (s_list[idx] if idx < len(s_list) else None)
+        if s_num is None: break
+        idx += 1
+        if s_num > 50: break
+
+        console.rule(f"Temporada {s_num}")
+        if os.path.exists(WORK_DIR): shutil.rmtree(WORK_DIR)
+        os.makedirs(os.path.join(WORK_DIR, "en"), exist_ok=True)
+        
+        clean_name = re.sub(r'\s*\(\d{4}-.*?\)', '', selected['display']).replace("(","").replace(")","").strip()
+        url = f"https://www.tvsubtitles.net/files/seasons/{urllib.parse.quote(clean_name)}%20-%20season%20{s_num}.en.zip"
+        
+        r = scraper.get(url)
+        if r.status_code != 200: 
+            if s_list is None: break
+            continue
+            
+        zip_path = os.path.join(WORK_DIR, "temp_subs.zip")
+        with open(zip_path, "wb") as f: f.write(r.content)
+        with zipfile.ZipFile(zip_path, 'r') as z: z.extractall(os.path.join(WORK_DIR, "en"))
+        try: os.remove(zip_path) 
+        except: pass
+        
+        out_dir = os.path.join(OUT_BASE_DIR, clean_name.replace(" ","_"), f"Season_{s_num}")
+        os.makedirs(out_dir, exist_ok=True)
+        
+        files = sorted([f for f in os.listdir(os.path.join(WORK_DIR, "en")) if f.endswith(('.srt', '.sub'))])
+        
+        progress = Progress(SpinnerColumn(), TextColumn("[bold blue]{task.fields[filename]}"), BarColumn(), TextColumn("{task.description}"))
+        log_mgr = LogManager(max_len=12)
+        
+        # Función para generar el layout dinámico
+        def get_renderable():
+            return Group(
+                progress,
+                Panel(log_mgr.get_text(), title="Real-time Logs", height=14, border_style="blue")
+            )
+
+        with Live(get_renderable(), refresh_per_second=5) as live:
+            with ThreadPoolExecutor(max_workers=max_threads) as executor:
+                futures = []
+                for f in files:
+                    tid = progress.add_task("Wait", filename=f[:12], total=100)
+                    futures.append(executor.submit(process_episode, f, os.path.join(WORK_DIR, "en"), out_dir, clean_name, progress, tid, log_mgr))
+                
+                # Mantener vivo el loop de renderizado mientras hay futuros
+                while any(f.running() for f in futures):
+                     live.update(get_renderable())
+                     time.sleep(0.2)
+                
+                # Asegurar que terminen
+                for f in futures: f.result()
+               
+        save_cache()
+        if s_list: break
+
+    console.print("[bold green]Listo.[/bold green]")
+
+if __name__ == "__main__":
+    try:
+        main()
+    except KeyboardInterrupt:
+        console.print("\n[bold yellow]Interrupción de usuario detectada. Saliendo...[/bold yellow]")
+        # Force exit to stop threads immediately
+        os._exit(0)

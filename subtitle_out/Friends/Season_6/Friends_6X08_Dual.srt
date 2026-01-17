@@ -1,0 +1,1650 @@
+1
+00:00:05,588 --> 00:00:08,549
+<font color='#ffff00'>Hi, my name's Chandler. I just moved in next door.</font>
+Hola, me llamo Chandler. Me acabo de mudar al lado.
+
+2
+00:00:08,800 --> 00:00:11,760
+<font color='#ffff00'>Would you like to battle me in a post-apocalyptic world...</font>
+¿Quieres pelear conmigo en un mundo postapocalíptico...
+
+3
+00:00:11,970 --> 00:00:15,723
+<font color='#ffff00'>...for control of the galaxy's last remaining energy source?</font>
+...¿por el control de la última fuente de energía que queda en la galaxia?
+
+4
+00:00:16,558 --> 00:00:18,517
+<font color='#ffff00'>Sure, neighbor. Come on in.</font>
+Claro, vecino. Pasa.
+
+5
+00:00:19,894 --> 00:00:20,978
+<font color='#ffff00'>Is Janine around?</font>
+¿Está Janine por aquí?
+
+6
+00:00:21,229 --> 00:00:22,646
+<font color='#ffff00'>She's at dance class.</font>
+Está en clase de baile.
+
+7
+00:00:22,897 --> 00:00:24,148
+<font color='#ffff00'>Can I check my room?</font>
+¿Puedo revisar mi habitación?
+
+8
+00:00:24,357 --> 00:00:27,234
+<font color='#ffff00'>Don't go through her stuff. She gets really mad.</font>
+No revises sus cosas. Se enfada mucho.
+
+9
+00:00:31,031 --> 00:00:32,614
+<font color='#ffff00'>Oh, my God.</font>
+Dios mío.
+
+10
+00:00:32,824 --> 00:00:35,617
+<font color='#ffff00'>It's like a guy never lived in here.</font>
+Parece que nunca ha vivido un hombre aquí.
+
+11
+00:00:36,369 --> 00:00:40,122
+<font color='#ffff00'>You gotta be careful. This girl thing is dangerous. It's spreading.</font>
+Tienes que tener cuidado. Esto de las chicas es peligroso. Se está contagiando.
+
+12
+00:00:40,790 --> 00:00:41,832
+<font color='#ffff00'>It is?</font>
+¿Sí?
+
+13
+00:00:42,292 --> 00:00:45,836
+<font color='#ffff00'>Is this your pretty pink pillow on the couch?</font>
+¿Es esta tu bonita almohada rosa en el sofá?
+
+14
+00:00:46,004 --> 00:00:47,004
+<font color='#ffff00'>No.</font>
+No.
+
+15
+00:00:47,213 --> 00:00:50,924
+<font color='#ffff00'>Is that your tiny little box that's too small to put anything in?</font>
+¿Es esta tu cajita demasiado pequeña para meter nada?
+
+16
+00:00:51,134 --> 00:00:52,176
+<font color='#ffff00'>- No. - No.</font>
+- No. - No.
+
+17
+00:00:52,385 --> 00:00:55,637
+<font color='#ffff00'>Okay, this is not good. You are a guy, okay?</font>
+Vale, esto no está bien. Tú eres un chico, ¿vale?
+
+18
+00:00:55,847 --> 00:00:57,514
+<font color='#ffff00'>This is a "guy's" place.</font>
+Este es un lugar "de chicos".
+
+19
+00:00:57,724 --> 00:01:00,851
+<font color='#ffff00'>Soon, you'll be soaking your fingers in stuff.</font>
+Pronto, te estarás mojando los dedos en cosas.
+
+20
+00:01:02,187 --> 00:01:05,606
+<font color='#ffff00'>- You're right. I'll talk to her. - Talk to her. Be a man.</font>
+Tienes razón. Hablaré con ella. - Habla con ella. Sé un hombre.
+
+21
+00:01:05,815 --> 00:01:07,649
+<font color='#ffff00'>- I'm a man. - Defend yourself.</font>
+Soy un hombre. - Defiéndete.
+
+22
+00:01:09,194 --> 00:01:11,320
+<font color='#ffff00'>We have to hem the new dust ruffle.</font>
+Tenemos que hacerle el dobladillo al nuevo cubre somier.
+
+23
+00:01:11,529 --> 00:01:13,072
+<font color='#ffff00'>Be right there, sweetums.</font>
+Voy enseguida, cariño.
+
+24
+00:01:15,658 --> 00:01:17,159
+<font color='#ffff00'>Totally different situation.</font>
+Situación totalmente diferente.
+
+25
+00:01:59,327 --> 00:02:00,327
+<font color='#ffff00'>Hey, guys.</font>
+Hola, chicos.
+
+26
+00:02:00,495 --> 00:02:02,496
+<font color='#ffff00'>- How was breakfast with Hillary? - Okay.</font>
+¿Qué tal el desayuno con Hillary? - Bien.
+
+27
+00:02:02,705 --> 00:02:06,375
+<font color='#ffff00'>She's still depressed because she broke up with her boyfriend.</font>
+Sigue deprimida porque rompió con su novio.
+
+28
+00:02:06,584 --> 00:02:10,003
+<font color='#ffff00'>Is this Hillary, your hot assistant chef, Hillary?</font>
+¿Es esta Hillary, tu atractiva asistente de cocina, Hillary?
+
+29
+00:02:10,255 --> 00:02:13,549
+<font color='#ffff00'>- Yeah. - The one that stares at me?</font>
+Sí. - ¿La que me mira fijamente?
+
+30
+00:02:14,008 --> 00:02:17,719
+<font color='#ffff00'>No. The one who looked at you once because you got in her way.</font>
+No. La que te miró una vez porque te interpusiste en su camino.
+
+31
+00:02:18,429 --> 00:02:21,140
+<font color='#ffff00'>Still, I could tell. She was into me.</font>
+Aun así, me di cuenta. Le gustabas.
+
+32
+00:02:23,351 --> 00:02:24,643
+<font color='#ffff00'>Why don't you set us up?</font>
+¿Por qué no nos presentas?
+
+33
+00:02:24,853 --> 00:02:26,562
+<font color='#ffff00'>Ooh, are you setting Ross up with someone?</font>
+Ooh, ¿le estás presentando a alguien a Ross?
+
+34
+00:02:26,729 --> 00:02:28,772
+<font color='#ffff00'>Does she have a wedding dress?</font>
+¿Tiene vestido de novia?
+
+35
+00:02:31,442 --> 00:02:32,693
+<font color='#ffff00'>- Hey. - Hey.</font>
+- Hola. - Hola.
+
+36
+00:02:32,861 --> 00:02:37,614
+<font color='#ffff00'>Rachel, I'm making up flyers to try to get new massage clients.</font>
+Rachel, estoy haciendo folletos para conseguir nuevos clientes de masajes.
+
+37
+00:02:37,824 --> 00:02:40,450
+<font color='#ffff00'>So can I come to Bloomingdale's and use the copy machine?</font>
+¿Entonces puedo ir a Bloomingdale's y usar la fotocopiadora?
+
+38
+00:02:40,660 --> 00:02:45,038
+<font color='#ffff00'>Well, sure, but they might think it's weird considering I don't work there anymore.</font>
+Bueno, claro, pero podrían pensar que es raro, considerando que ya no trabajo allí.
+
+39
+00:02:45,957 --> 00:02:48,000
+<font color='#ffff00'>Oh, my God. What happened?</font>
+Dios mío. ¿Qué pasó?
+
+40
+00:02:48,251 --> 00:02:50,127
+<font color='#ffff00'>I got a job at Ralph Lauren.</font>
+Conseguí un trabajo en Ralph Lauren.
+
+41
+00:02:50,461 --> 00:02:52,796
+<font color='#ffff00'>Well, that's great. Congratulations.</font>
+Bueno, eso es genial. Felicidades.
+
+42
+00:02:54,924 --> 00:02:56,758
+<font color='#ffff00'>A year ago.</font>
+Hace un año.
+
+43
+00:02:58,178 --> 00:03:00,387
+<font color='#ffff00'>You've lasted all year. Good for you.</font>
+Has aguantado todo el año. Bien por ti.
+
+44
+00:03:03,349 --> 00:03:06,685
+<font color='#ffff00'>But, Pheebs, you could still use the copy machine where I actually work.</font>
+Pero, Pheebs, todavía podrías usar la fotocopiadora donde trabajo.
+
+45
+00:03:06,895 --> 00:03:09,646
+<font color='#ffff00'>But come by at lunch so my boss doesn't see you.</font>
+Pero ven a la hora del almuerzo para que mi jefe no te vea.
+
+46
+00:03:09,898 --> 00:03:12,107
+<font color='#ffff00'>Kim will freak out. She already doesn't like me.</font>
+Kim se va a volver loca. Ya no le caigo bien.
+
+47
+00:03:12,317 --> 00:03:15,694
+<font color='#ffff00'>- I don't think my boss likes me. - I don't think mine likes me either.</font>
+No creo que a mi jefe le caiga bien. - Yo tampoco creo que al mío le caiga bien.
+
+48
+00:03:16,404 --> 00:03:18,780
+<font color='#ffff00'>Maybe it's a universal thing.</font>
+Quizás sea algo universal.
+
+49
+00:03:18,990 --> 00:03:22,701
+<font color='#ffff00'>Or maybe because you're all hanging around here at 11:30 on a Wednesday.</font>
+O quizás porque andan todos por aquí a las 11:30 un miércoles.
+
+50
+00:03:25,788 --> 00:03:27,372
+<font color='#ffff00'>Yeah, let's head off to work.</font>
+Sí, vámonos a trabajar.
+
+51
+00:03:32,962 --> 00:03:34,671
+<font color='#ffff00'>- Thank you. - Sure.</font>
+- Gracias. - De nada.
+
+52
+00:03:34,881 --> 00:03:36,673
+<font color='#ffff00'>You will not believe this.</font>
+No vas a creer esto.
+
+53
+00:03:36,883 --> 00:03:39,801
+<font color='#ffff00'>I was making copies, and Ralph Lauren came in.</font>
+Estaba sacando copias y entró Ralph Lauren.
+
+54
+00:03:40,011 --> 00:03:42,012
+<font color='#ffff00'>Oh, my God. Did you talk to him?</font>
+¡Dios mío! ¿Hablaste con él?
+
+55
+00:03:42,222 --> 00:03:44,306
+<font color='#ffff00'>Yeah, a little. He seems really nice.</font>
+Sí, un poco. Parece muy simpático.
+
+56
+00:03:44,515 --> 00:03:46,558
+<font color='#ffff00'>- Good kisser. - What?</font>
+- Buen beso. - ¿Qué?
+
+57
+00:03:47,060 --> 00:03:48,518
+<font color='#ffff00'>What?</font>
+¿Qué?
+
+58
+00:03:48,978 --> 00:03:50,479
+<font color='#ffff00'>- You kissed him? - Totally.</font>
+- ¿Lo besaste? - Totalmente.
+
+59
+00:03:51,356 --> 00:03:53,148
+<font color='#ffff00'>Phoebe, are you serious?</font>
+Phoebe, ¿hablas en serio?
+
+60
+00:03:53,358 --> 00:03:55,859
+<font color='#ffff00'>Yeah, I was just in there, he came in and introduced himself.</font>
+Sí, acababa de entrar, él se presentó.
+
+61
+00:03:56,110 --> 00:03:59,363
+<font color='#ffff00'>The next thing I know, we're making out.</font>
+Lo siguiente que sé es que nos estábamos besando.
+
+62
+00:04:00,156 --> 00:04:02,616
+<font color='#ffff00'>Phoebe, you do know he's married?</font>
+Phoebe, ¿sabes que está casado?
+
+63
+00:04:02,909 --> 00:04:04,284
+<font color='#ffff00'>No.</font>
+No.
+
+64
+00:04:04,911 --> 00:04:05,911
+<font color='#ffff00'>Phoebe.</font>
+Phoebe.
+
+65
+00:04:06,120 --> 00:04:09,581
+<font color='#ffff00'>What am I supposed to do, ask every guy I make out with if he's married?</font>
+¿Qué se supone que haga, preguntarle a cada chico con el que me beso si está casado?
+
+66
+00:04:11,251 --> 00:04:12,459
+<font color='#ffff00'>No, yeah, I should.</font>
+No, sí, debería.
+
+67
+00:04:25,306 --> 00:04:26,807
+<font color='#ffff00'>- Hey, Joey. - Hey.</font>
+- Hola, Joey. - Hola.
+
+68
+00:04:26,975 --> 00:04:30,686
+<font color='#ffff00'>Uh, can I talk to you for a second? There's a kid in this picture.</font>
+Uh, ¿puedo hablar contigo un segundo? Hay un niño en esta foto.
+
+69
+00:04:30,895 --> 00:04:33,689
+<font color='#ffff00'>Do you, uh, know this kid? Is it a relative?</font>
+¿Conoces a este niño? ¿Es un pariente?
+
+70
+00:04:33,898 --> 00:04:35,816
+<font color='#ffff00'>No. I just thought it was cute.</font>
+No. Solo pensé que era tierno.
+
+71
+00:04:36,025 --> 00:04:39,194
+<font color='#ffff00'>Yeah, that's what I was afraid of. Okay, uh...</font>
+Sí, eso es lo que me temía. Okay, uh...
+
+72
+00:04:39,362 --> 00:04:42,281
+<font color='#ffff00'>Look, Janine, I really want you to feel at home here, but...</font>
+Mira, Janine, realmente quiero que te sientas como en casa aquí, pero...
+
+73
+00:04:42,490 --> 00:04:45,409
+<font color='#ffff00'>...some of this new stuff, it's too girlie.</font>
+...algunas de estas cosas nuevas, son demasiado cursis.
+
+74
+00:04:45,618 --> 00:04:47,577
+<font color='#ffff00'>Oh. Like what?</font>
+Oh. ¿Cómo cuáles?
+
+75
+00:04:47,787 --> 00:04:51,290
+<font color='#ffff00'>Uh, like this. Pictures of cute babies we don't know.</font>
+Uh, como esto. Fotos de bebés lindos que no conocemos.
+
+76
+00:04:51,791 --> 00:04:53,250
+<font color='#ffff00'>We can't have that.</font>
+No podemos tener eso.
+
+77
+00:04:53,584 --> 00:04:56,253
+<font color='#ffff00'>Joey, it's Anne Geddes. She's a famous artist.</font>
+Joey, es Anne Geddes. Es una artista famosa.
+
+78
+00:04:56,462 --> 00:05:00,799
+<font color='#ffff00'>I don't know this baby. I don't know if she's a famous artist or not.</font>
+No conozco a este bebé. No sé si es una artista famosa o no.
+
+79
+00:05:03,136 --> 00:05:07,472
+<font color='#ffff00'>I don't want to be a jerk, but you're changing too much around here.</font>
+No quiero ser un imbécil, pero estás cambiando demasiado las cosas aquí.
+
+80
+00:05:07,682 --> 00:05:10,934
+<font color='#ffff00'>I'm sorry. I just thought I'd try and make the place a little nicer.</font>
+Lo siento. Solo pensé que intentaría hacer el lugar un poco más agradable.
+
+81
+00:05:11,144 --> 00:05:12,728
+<font color='#ffff00'>Yeah, but it's too much stuff.</font>
+Sí, pero son demasiadas cosas.
+
+82
+00:05:12,979 --> 00:05:17,274
+<font color='#ffff00'>You know, you got the candles and the "foofy schmoofer" thing here.</font>
+Sabes, tienes las velas y esa cosa "espumosa" aquí.
+
+83
+00:05:17,483 --> 00:05:21,445
+<font color='#ffff00'>Over here, you got a picture of a watering can.</font>
+Por aquí, tienes la foto de una regadera.
+
+84
+00:05:22,155 --> 00:05:25,824
+<font color='#ffff00'>- I just thought... - I'm sure it's a famous watering can.</font>
+- Solo pensé... - Estoy seguro de que es una regadera famosa.
+
+85
+00:05:26,034 --> 00:05:27,242
+<font color='#ffff00'>But come on.</font>
+Pero vamos.
+
+86
+00:05:27,410 --> 00:05:30,579
+<font color='#ffff00'>And what is with the really hot stick in the bathroom?</font>
+¿Y qué es esa cosa caliente en el baño?
+
+87
+00:05:31,664 --> 00:05:33,373
+<font color='#ffff00'>It's a curling iron.</font>
+Es una plancha para el pelo.
+
+88
+00:05:39,005 --> 00:05:41,673
+<font color='#ffff00'>Oh. Well, that's okay then.</font>
+Oh. Bueno, entonces está bien.
+
+89
+00:05:41,924 --> 00:05:45,344
+<font color='#ffff00'>Okay, my towels, for instance. I come into the bathroom...</font>
+Okay, mis toallas, por ejemplo. Entro al baño...
+
+90
+00:05:45,595 --> 00:05:49,598
+<font color='#ffff00'>...and my towel is not on the floor, where I keep it.</font>
+...y mi toalla no está en el suelo, donde la dejo.
+
+91
+00:05:50,641 --> 00:05:54,728
+<font color='#ffff00'>It's up here on some hook. And it smells different.</font>
+Está aquí colgada en un gancho. Y huele diferente.
+
+92
+00:05:54,937 --> 00:05:57,773
+<font color='#ffff00'>- It's clean. - Yeah, well, it feels different.</font>
+- Está limpia. - Sí, bueno, se siente diferente.
+
+93
+00:05:57,982 --> 00:05:59,399
+<font color='#ffff00'>It's dry.</font>
+Está seca.
+
+94
+00:06:01,652 --> 00:06:04,654
+<font color='#ffff00'>All right, I can make my peace with the clean, dry towels.</font>
+Está bien, puedo aceptar las toallas limpias y secas.
+
+95
+00:06:04,906 --> 00:06:07,282
+<font color='#ffff00'>Okay, also, what is with these chips you bought?</font>
+Okay, además, ¿qué son estas papas fritas que compraste?
+
+96
+00:06:07,450 --> 00:06:11,078
+<font color='#ffff00'>No, no, no. It's potpourri. You're supposed to smell it.</font>
+No, no, no. Es popurrí. Se supone que debes olerlo.
+
+97
+00:06:18,961 --> 00:06:21,088
+<font color='#ffff00'>Well, that's like summer in a bowl.</font>
+Bueno, esto es como el verano en un tazón.
+
+98
+00:06:31,766 --> 00:06:32,766
+<font color='#ffff00'>Oh.</font>
+Oh.
+
+99
+00:06:32,975 --> 00:06:34,476
+<font color='#ffff00'>Kim, hi.</font>
+Kim, hola.
+
+100
+00:06:34,936 --> 00:06:36,311
+<font color='#ffff00'>Uh-huh.</font>
+Ajá.
+
+101
+00:06:39,315 --> 00:06:44,444
+<font color='#ffff00'>So I handed in that marketing report, and I never got to hear what you thought.</font>
+Así que entregué ese informe de marketing, y nunca supe qué pensaste.
+
+102
+00:06:44,862 --> 00:06:47,155
+<font color='#ffff00'>- I didn't read it. - Ah.</font>
+- No lo leí. - Ah.
+
+103
+00:06:49,951 --> 00:06:53,328
+<font color='#ffff00'>So, wow, the spring line's really gonna be great this year, huh?</font>
+Así que, guau, la colección de primavera va a estar genial este año, ¿eh?
+
+104
+00:06:54,497 --> 00:06:55,705
+<font color='#ffff00'>Yeah.</font>
+Sí.
+
+105
+00:06:59,710 --> 00:07:03,338
+<font color='#ffff00'>So I hear, uh, Ralph Lauren fooled around with someone in the copy room.</font>
+Oí que, eh, Ralph Lauren se revolcó con alguien en la sala de copias.
+
+106
+00:07:05,550 --> 00:07:07,092
+<font color='#ffff00'>Tell me everything.</font>
+Cuéntamelo todo.
+
+107
+00:07:10,805 --> 00:07:12,556
+<font color='#ffff00'>- Hey, guys. - Hey.</font>
+- Hola, chicos. - Hola.
+
+108
+00:07:12,765 --> 00:07:14,057
+<font color='#ffff00'>What's up?</font>
+¿Qué pasa?
+
+109
+00:07:16,769 --> 00:07:18,019
+<font color='#ffff00'>You know...</font>
+Sabes...
+
+110
+00:07:18,312 --> 00:07:19,896
+<font color='#ffff00'>Oh, my God.</font>
+Dios mío.
+
+111
+00:07:20,940 --> 00:07:22,482
+<font color='#ffff00'>What happened to your teeth?</font>
+¿Qué te pasó en los dientes?
+
+112
+00:07:22,692 --> 00:07:24,067
+<font color='#ffff00'>I whitened them.</font>
+Me los blanqueé.
+
+113
+00:07:26,654 --> 00:07:27,821
+<font color='#ffff00'>Really?</font>
+¿En serio?
+
+114
+00:07:28,823 --> 00:07:30,657
+<font color='#ffff00'>Yeah, what do you think?</font>
+Sí, ¿qué te parece?
+
+115
+00:07:30,867 --> 00:07:33,452
+<font color='#ffff00'>I think I shouldn't look directly at them.</font>
+Creo que no debería mirarlos directamente.
+
+116
+00:07:33,953 --> 00:07:35,954
+<font color='#ffff00'>Come on, seriously.</font>
+Vamos, en serio.
+
+117
+00:07:37,999 --> 00:07:42,210
+<font color='#ffff00'>- They're really, really, really white. - What was wrong with your old...</font>
+- Están muy, muy, muy blancos. - ¿Qué tenías con tus viejos...
+
+118
+00:07:42,462 --> 00:07:44,129
+<font color='#ffff00'>...human teeth?</font>
+...¿dientes humanos?
+
+119
+00:07:45,298 --> 00:07:48,675
+<font color='#ffff00'>I did leave the gel on a little longer than it said to.</font>
+Dejé el gel un poco más de tiempo del que decía.
+
+120
+00:07:49,177 --> 00:07:51,887
+<font color='#ffff00'>- How much longer? - A day.</font>
+- ¿Cuánto más? - Un día.
+
+121
+00:07:53,347 --> 00:07:55,515
+<font color='#ffff00'>Ross, tonight is your date with Hillary.</font>
+Ross, esta noche tienes tu cita con Hillary.
+
+122
+00:07:55,725 --> 00:07:59,728
+<font color='#ffff00'>I know. That's why I did it. Are they really that bad?</font>
+Lo sé. Por eso lo hice. ¿Son realmente tan malos?
+
+123
+00:08:00,771 --> 00:08:01,771
+<font color='#ffff00'>No. No, no, no.</font>
+No. No, no, no.
+
+124
+00:08:01,981 --> 00:08:05,108
+<font color='#ffff00'>You'll be fine. Hillary's blind, right?</font>
+Estarás bien. Hillary es ciega, ¿verdad?
+
+125
+00:08:05,985 --> 00:08:07,861
+<font color='#ffff00'>She will be after tonight.</font>
+Lo estará después de esta noche.
+
+126
+00:08:10,323 --> 00:08:12,407
+<font color='#ffff00'>Oh, Rach. Uh, do you notice anything...?</font>
+Oh, Rach. Eh, ¿notas algo...?
+
+127
+00:08:12,617 --> 00:08:15,118
+<font color='#ffff00'>Your teeth? Yes, I saw them from outside.</font>
+¿Tus dientes? Sí, los vi desde afuera.
+
+128
+00:08:16,621 --> 00:08:19,706
+<font color='#ffff00'>You guys are never gonna believe this...</font>
+Ustedes nunca van a creer esto...
+
+129
+00:08:19,916 --> 00:08:24,127
+<font color='#ffff00'>...but Phoebe made out with Ralph Lauren.</font>
+...pero Phoebe se besó con Ralph Lauren.
+
+130
+00:08:24,337 --> 00:08:25,629
+<font color='#ffff00'>- What? - Oh, my God.</font>
+- ¿Qué? - Dios mío.
+
+131
+00:08:25,838 --> 00:08:29,341
+<font color='#ffff00'>She ran into him at my office, and they just made out.</font>
+Se lo encontró en mi oficina, y se besaron.
+
+132
+00:08:29,550 --> 00:08:32,469
+<font color='#ffff00'>The craziest thing is, now my boss likes me because...</font>
+Lo más loco es que ahora a mi jefa le caigo bien porque...
+
+133
+00:08:32,678 --> 00:08:35,138
+<font color='#ffff00'>...it's the best gossip she's heard all year.</font>
+...es el mejor chisme que ha oído en todo el año.
+
+134
+00:08:35,348 --> 00:08:38,099
+<font color='#ffff00'>I am proud of all my friends today.</font>
+Estoy orgullosa de todos mis amigos hoy.
+
+135
+00:08:39,018 --> 00:08:42,103
+<font color='#ffff00'>Rachel, I can't believe Phoebe made out with Ralph Lauren.</font>
+Rachel, no puedo creer que Phoebe se haya besado con Ralph Lauren.
+
+136
+00:08:42,355 --> 00:08:44,523
+<font color='#ffff00'>Ugh. I'm so jealous.</font>
+Uf. Me da mucha envidia.
+
+137
+00:08:45,483 --> 00:08:48,026
+<font color='#ffff00'>Hi, I'm Chandler, your live-in boyfriend.</font>
+Hola, soy Chandler, tu novio que vive contigo.
+
+138
+00:08:49,111 --> 00:08:51,238
+<font color='#ffff00'>Chandler, please. Come on.</font>
+Chandler, por favor. Vamos.
+
+139
+00:08:51,447 --> 00:08:52,906
+<font color='#ffff00'>Look at him.</font>
+Míralo.
+
+140
+00:08:53,115 --> 00:08:56,868
+<font color='#ffff00'>Well, I am no woman, but that is one tasty dish.</font>
+Bueno, no soy mujer, pero ese es un plato muy sabroso.
+
+141
+00:08:58,371 --> 00:08:59,454
+<font color='#ffff00'>Hey.</font>
+Oye.
+
+142
+00:08:59,664 --> 00:09:00,747
+<font color='#ffff00'>Here. Ooh.</font>
+Toma. Ooh.
+
+143
+00:09:00,998 --> 00:09:03,124
+<font color='#ffff00'>Who's the silver fox?</font>
+¿Quién es el zorro plateado?
+
+144
+00:09:04,335 --> 00:09:07,796
+<font color='#ffff00'>That is your make-out buddy. Don't you recognize him?</font>
+Ese es tu compañero de besos. ¿No lo reconoces?
+
+145
+00:09:08,047 --> 00:09:12,717
+<font color='#ffff00'>Oh, wait. "Ooh, Phoebe, I love you. Kiss me, please."</font>
+Oh, espera. "Ooh, Phoebe, te amo. Bésame, por favor."
+
+146
+00:09:13,386 --> 00:09:16,680
+<font color='#ffff00'>That's not Ralph Lauren. It sounds like him, though.</font>
+Ese no es Ralph Lauren. Suena como él, sin embargo.
+
+147
+00:09:17,348 --> 00:09:18,390
+<font color='#ffff00'>What?</font>
+¿Qué?
+
+148
+00:09:18,599 --> 00:09:20,892
+<font color='#ffff00'>Yeah, no, Ralph doesn't look like that guy.</font>
+Sí, no, Ralph no se ve como ese tipo.
+
+149
+00:09:21,143 --> 00:09:25,939
+<font color='#ffff00'>He's young, and he's got long hair and a beard and a Hacky Sack...</font>
+Es joven, y tiene el pelo largo, barba y un Hacky Sack...
+
+150
+00:09:26,148 --> 00:09:30,318
+<font color='#ffff00'>Oh, my God. That's not Ralph Lauren. That's Kenny the copy guy.</font>
+Dios mío. Ese no es Ralph Lauren. Es Kenny, el chico de las copias.
+
+151
+00:09:31,320 --> 00:09:32,362
+<font color='#ffff00'>What?</font>
+¿Qué?
+
+152
+00:09:32,572 --> 00:09:36,199
+<font color='#ffff00'>Oh, God... I told my boss that someone made out with Ralph Lauren.</font>
+Dios... Le dije a mi jefe que alguien se besó con Ralph Lauren.
+
+153
+00:09:36,450 --> 00:09:40,704
+<font color='#ffff00'>If she finds out that I lied to her, she is gonna hate me even more. Phoebe!</font>
+Si se entera de que le mentí, me odiará aún más. ¡Phoebe!
+
+154
+00:09:40,913 --> 00:09:43,456
+<font color='#ffff00'>Why would the copy guy say he's Ralph Lauren?</font>
+¿Por qué el chico de las copias diría que es Ralph Lauren?
+
+155
+00:09:43,666 --> 00:09:45,500
+<font color='#ffff00'>To get you to make out with him.</font>
+Para que te besaras con él.
+
+156
+00:09:45,710 --> 00:09:47,127
+<font color='#ffff00'>Oh.</font>
+Oh.
+
+157
+00:09:52,842 --> 00:09:54,843
+<font color='#ffff00'>Okay, maybe this will make them look less white.</font>
+Okay, tal vez esto hará que se vean menos blancos.
+
+158
+00:10:00,016 --> 00:10:01,016
+<font color='#ffff00'>Nope. Heh.</font>
+No. Je.
+
+159
+00:10:02,184 --> 00:10:04,060
+<font color='#ffff00'>Okay, so colors that don't work are...</font>
+Okay, entonces los colores que no funcionan son...
+
+160
+00:10:04,312 --> 00:10:08,356
+<font color='#ffff00'>...blue, yellow, green, red, black, white, orange and purple.</font>
+...azul, amarillo, verde, rojo, negro, blanco, naranja y morado.
+
+161
+00:10:10,026 --> 00:10:13,403
+<font color='#ffff00'>I don't know what I'm gonna do. The date starts in an hour.</font>
+No sé qué voy a hacer. La cita empieza en una hora.
+
+162
+00:10:14,071 --> 00:10:18,992
+<font color='#ffff00'>Ross, maybe if your skin was lighter, your teeth wouldn't look so bright.</font>
+Ross, tal vez si tu piel fuera más clara, tus dientes no se verían tan brillantes.
+
+163
+00:10:19,201 --> 00:10:23,246
+<font color='#ffff00'>Oh, great. So all I need to do is get some new skin. Thank you.</font>
+Oh, genial. Así que todo lo que necesito es conseguir piel nueva. Gracias.
+
+164
+00:10:23,956 --> 00:10:26,583
+<font color='#ffff00'>If we put just a little bit of makeup on you...</font>
+Si te ponemos un poco de maquillaje...
+
+165
+00:10:26,834 --> 00:10:28,335
+<font color='#ffff00'>Whoa, whoa.</font>
+Whoa, whoa.
+
+166
+00:10:28,544 --> 00:10:30,837
+<font color='#ffff00'>We're not 13 anymore.</font>
+Ya no tenemos 13 años.
+
+167
+00:10:32,923 --> 00:10:35,842
+<font color='#ffff00'>Ross, this is the only thing left that has a shot at working.</font>
+Ross, esto es lo único que queda que podría funcionar.
+
+168
+00:10:36,052 --> 00:10:38,011
+<font color='#ffff00'>Won't she notice I have makeup on?</font>
+¿No notará que tengo maquillaje?
+
+169
+00:10:38,220 --> 00:10:40,430
+<font color='#ffff00'>Half the guys out there have makeup on.</font>
+La mitad de los hombres ahí afuera usan maquillaje.
+
+170
+00:10:40,640 --> 00:10:41,973
+<font color='#ffff00'>What?</font>
+¿Qué?
+
+171
+00:10:42,975 --> 00:10:45,977
+<font color='#ffff00'>Half the people... I mean... Just try it and see.</font>
+La mitad de la gente... quiero decir... Inténtalo y veamos.
+
+172
+00:10:46,187 --> 00:10:47,687
+<font color='#ffff00'>No, I am not putting on makeup.</font>
+No, no me voy a poner maquillaje.
+
+173
+00:10:49,398 --> 00:10:53,193
+<font color='#ffff00'>Hello? Ross, could you put up some of these flyers for me?</font>
+¿Hola? Ross, ¿podrías poner algunos de estos volantes para mí?
+
+174
+00:10:53,402 --> 00:10:55,779
+<font color='#ffff00'>No! Demon! Demon!</font>
+¡No! ¡Demonio! ¡Demonio!
+
+175
+00:11:02,244 --> 00:11:06,373
+<font color='#ffff00'>Now our drawers will smell nice, and we didn't waste these pantyhose.</font>
+Ahora nuestros cajones olerán bien, y no desperdiciamos estas pantimedias.
+
+176
+00:11:07,333 --> 00:11:09,501
+<font color='#ffff00'>God forbid we throw out old underwear.</font>
+Dios no quiera que tiremos ropa interior vieja.
+
+177
+00:11:10,920 --> 00:11:13,421
+<font color='#ffff00'>You know what? I'm gonna go over to Joey's.</font>
+¿Sabes qué? Voy a ir a lo de Joey.
+
+178
+00:11:13,631 --> 00:11:15,715
+<font color='#ffff00'>We're supposed to organize the wrapping paper.</font>
+Se supone que debemos organizar el papel de regalo.
+
+179
+00:11:17,510 --> 00:11:20,762
+<font color='#ffff00'>Yes, but I've really gotten in touch with my feminine side enough today.</font>
+Sí, pero hoy ya he conectado lo suficiente con mi lado femenino.
+
+180
+00:11:20,971 --> 00:11:24,349
+<font color='#ffff00'>In fact, we're two sachets away from becoming a lesbian couple.</font>
+De hecho, estamos a dos bolsitas de convertirnos en una pareja de lesbianas.
+
+181
+00:11:26,936 --> 00:11:29,729
+<font color='#ffff00'>This has been kind of a girlie day. You're right. I'm sorry.</font>
+Este ha sido un día bastante femenino. Tienes razón. Lo siento.
+
+182
+00:11:29,939 --> 00:11:32,482
+<font color='#ffff00'>It's okay. I just feel like I need to be in a guy place...</font>
+Está bien. Siento que necesito estar en un lugar de chicos...
+
+183
+00:11:32,733 --> 00:11:34,693
+<font color='#ffff00'>...do kind of a man thing.</font>
+...hacer algo de hombre.
+
+184
+00:11:34,902 --> 00:11:37,278
+<font color='#ffff00'>Go over to Joey's and...</font>
+Ir a lo de Joey y...
+
+185
+00:11:37,530 --> 00:11:40,448
+<font color='#ffff00'>...drink some beer and hammer up some dry wall.</font>
+...tomar cerveza y clavar paneles de yeso.
+
+186
+00:11:41,283 --> 00:11:45,036
+<font color='#ffff00'>When guys hang out, they don't just drink beer and hammer up dry wall.</font>
+Cuando los chicos salen, no solo beben cerveza y clavan paneles de yeso.
+
+187
+00:11:45,246 --> 00:11:48,915
+<font color='#ffff00'>When girls hang out, we don't have pillow fights in our underwear.</font>
+Cuando las chicas salen, no tenemos peleas de almohadas en ropa interior.
+
+188
+00:11:51,210 --> 00:11:53,086
+<font color='#ffff00'>I'm sorry. We do. We do.</font>
+Lo siento. Sí lo hacemos. Sí lo hacemos.
+
+189
+00:11:53,295 --> 00:11:54,963
+<font color='#ffff00'>I don't know why I said that.</font>
+No sé por qué dije eso.
+
+190
+00:11:59,343 --> 00:12:00,802
+<font color='#ffff00'>Hey, Chandler.</font>
+Hola, Chandler.
+
+191
+00:12:02,012 --> 00:12:04,347
+<font color='#ffff00'>Come on in. We're knitting potholders.</font>
+Adelante. Estamos tejiendo agarraderas.
+
+192
+00:12:06,308 --> 00:12:08,101
+<font color='#ffff00'>No, thanks, Josephine.</font>
+No, gracias, Josephine.
+
+193
+00:12:12,148 --> 00:12:13,606
+<font color='#ffff00'>Ross, I was wondering if...</font>
+Ross, me preguntaba si...
+
+194
+00:12:17,945 --> 00:12:21,072
+<font color='#ffff00'>Oh, my God. Where are all the men?</font>
+Dios mío. ¿Dónde están todos los hombres?
+
+195
+00:12:31,375 --> 00:12:34,669
+<font color='#ffff00'>- Oh. Hi, Kim. - Hi, Rachel.</font>
+- Oh. Hola, Kim. - Hola, Rachel.
+
+196
+00:12:35,254 --> 00:12:39,299
+<font color='#ffff00'>Uh, remember that thing that happened yesterday? Well, it didn't happen.</font>
+Eh, ¿recuerdas lo que pasó ayer? Bueno, no pasó.
+
+197
+00:12:39,508 --> 00:12:41,926
+<font color='#ffff00'>You didn't cancel the fabric order from Taiwan?</font>
+¿No cancelaste el pedido de tela de Taiwán?
+
+198
+00:12:43,012 --> 00:12:45,305
+<font color='#ffff00'>Okay, two things didn't happen.</font>
+Okay, dos cosas no pasaron.
+
+199
+00:12:45,598 --> 00:12:48,475
+<font color='#ffff00'>Remember I told you someone made out with Ralph Lauren?</font>
+¿Recuerdas que te dije que alguien se besó con Ralph Lauren?
+
+200
+00:12:48,726 --> 00:12:51,227
+<font color='#ffff00'>Well, it turns out that's not true.</font>
+Bueno, resulta que eso no es verdad.
+
+201
+00:12:51,437 --> 00:12:53,480
+<font color='#ffff00'>It's not true? Oh, that's interesting.</font>
+¿No es verdad? Vaya, eso es interesante.
+
+202
+00:12:53,689 --> 00:12:58,234
+<font color='#ffff00'>Because I checked. Only one keycard was used to access the copy machine...</font>
+Porque revisé. Solo se usó una tarjeta de acceso para la fotocopiadora...
+
+203
+00:12:58,444 --> 00:13:01,112
+<font color='#ffff00'>...yesterday during lunch, and that keycard belonged to you, Rachel.</font>
+...ayer durante el almuerzo, y esa tarjeta pertenecía a ti, Rachel.
+
+204
+00:13:01,280 --> 00:13:04,532
+<font color='#ffff00'>Oh, no. No, no, no. Oh, God, you think I made out with him?</font>
+Oh, no. No, no, no. Dios mío, ¿crees que me besé con él?
+
+205
+00:13:04,742 --> 00:13:08,036
+<font color='#ffff00'>Listen to me, if you think sleeping with Ralph is gonna get you my job...</font>
+Escúchame, si crees que acostarte con Ralph te va a conseguir mi trabajo...
+
+206
+00:13:08,204 --> 00:13:09,788
+<font color='#ffff00'>...you are sadly mistaken.</font>
+...estás muy equivocada.
+
+207
+00:13:09,955 --> 00:13:12,207
+<font color='#ffff00'>Oh, no. I don't want your job. I don't.</font>
+Oh, no. No quiero tu trabajo. No quiero.
+
+208
+00:13:12,416 --> 00:13:14,751
+<font color='#ffff00'>Oh, this is such a mistake. I didn't make out with him.</font>
+Oh, esto es un gran error. Yo no me besé con él.
+
+209
+00:13:15,002 --> 00:13:18,880
+<font color='#ffff00'>Nobody made out with him. I did not use my keycard yesterday.</font>
+Nadie se besó con él. Yo no usé mi tarjeta ayer.
+
+210
+00:13:19,131 --> 00:13:21,591
+<font color='#ffff00'>I don't even know how to use my keycard.</font>
+Ni siquiera sé cómo usar mi tarjeta.
+
+211
+00:13:23,427 --> 00:13:25,011
+<font color='#ffff00'>- Hi, Ralph. - Hi, Kim.</font>
+- Hola, Ralph. - Hola, Kim.
+
+212
+00:13:44,532 --> 00:13:45,949
+<font color='#ffff00'>Yeah. Nothing happened.</font>
+Sí. No pasó nada.
+
+213
+00:13:46,158 --> 00:13:49,494
+<font color='#ffff00'>You could cut the sexual tension in here with a knife.</font>
+Se podría cortar la tensión sexual aquí con un cuchillo.
+
+214
+00:13:56,168 --> 00:13:58,670
+<font color='#ffff00'>After that, what could I do except become a chef?</font>
+Después de eso, ¿qué más podía hacer sino convertirme en chef?
+
+215
+00:13:59,004 --> 00:14:00,588
+<font color='#ffff00'>Mm-hm.</font>
+Mm-hm.
+
+216
+00:14:00,881 --> 00:14:03,174
+<font color='#ffff00'>And someday soon, I hope to open my own restaurant.</font>
+Y algún día pronto, espero abrir mi propio restaurante.
+
+217
+00:14:03,467 --> 00:14:04,759
+<font color='#ffff00'>Mm.</font>
+Mm.
+
+218
+00:14:06,303 --> 00:14:08,513
+<font color='#ffff00'>You know, you're a really great listener.</font>
+Sabes, eres muy buena escuchando.
+
+219
+00:14:08,764 --> 00:14:11,224
+<font color='#ffff00'>Most guys I go out with, they just talk and talk.</font>
+La mayoría de los chicos con los que salgo, solo hablan y hablan.
+
+220
+00:14:14,562 --> 00:14:16,938
+<font color='#ffff00'>After a while, it's like, "Shut your mouth." You know?</font>
+Después de un rato, es como, "Cállate la boca". ¿Sabes?
+
+221
+00:14:19,984 --> 00:14:23,111
+<font color='#ffff00'>I've probably been talking too much. Why don't we talk about you?</font>
+Probablemente he hablado demasiado. ¿Por qué no hablamos de ti?
+
+222
+00:14:26,073 --> 00:14:27,448
+<font color='#ffff00'>Come on, I want to know.</font>
+Vamos, quiero saber.
+
+223
+00:14:31,245 --> 00:14:33,788
+<font color='#ffff00'>Okay. I'm from Long Island.</font>
+Está bien. Soy de Long Island.
+
+224
+00:14:34,039 --> 00:14:36,666
+<font color='#ffff00'>I came to the city for college.</font>
+Vine a la ciudad para la universidad.
+
+225
+00:14:36,834 --> 00:14:41,671
+<font color='#ffff00'>Um, I, uh, have a 5-year-old son, and in my spare time...</font>
+Eh, yo, eh, tengo un hijo de 5 años, y en mi tiempo libre...
+
+226
+00:14:41,922 --> 00:14:46,467
+<font color='#ffff00'>...I like to read spy novels. But let's talk more about you. Hmm?</font>
+...me gusta leer novelas de espías. Pero hablemos más de ti. ¿Mmm?
+
+227
+00:14:50,848 --> 00:14:55,310
+<font color='#ffff00'>So if you sear the stems of the flowers first in a frying pan...</font>
+Así que si sellas los tallos de las flores primero en una sartén...
+
+228
+00:14:55,519 --> 00:14:58,354
+<font color='#ffff00'>...your arrangement will look fresh much longer.</font>
+...tu arreglo se verá fresco mucho más tiempo.
+
+229
+00:14:59,064 --> 00:15:01,399
+<font color='#ffff00'>Joey, that is such a great tip.</font>
+Joey, ese es un gran consejo.
+
+230
+00:15:02,610 --> 00:15:06,237
+<font color='#ffff00'>Monica, can you excuse us? I need to talk to the girl with the flowers.</font>
+Mónica, ¿puedes disculparnos? Necesito hablar con la chica de las flores.
+
+231
+00:15:08,115 --> 00:15:10,033
+<font color='#ffff00'>Okay, but, Joey, come over later.</font>
+Está bien, pero, Joey, ven más tarde.
+
+232
+00:15:10,200 --> 00:15:12,035
+<font color='#ffff00'>I'm gonna teach you how to make a bird feeder...</font>
+Te voy a enseñar a hacer un comedero para pájaros...
+
+233
+00:15:12,202 --> 00:15:14,495
+<font color='#ffff00'>...out of just a pine cone and some peanut butter.</font>
+...con solo una piña y un poco de mantequilla de maní.
+
+234
+00:15:14,705 --> 00:15:16,956
+<font color='#ffff00'>Aw. I love birds.</font>
+Ay. Me encantan los pájaros.
+
+235
+00:15:19,001 --> 00:15:20,835
+<font color='#ffff00'>What is the matter with you?</font>
+¿Qué te pasa?
+
+236
+00:15:21,670 --> 00:15:23,338
+<font color='#ffff00'>- What? - You're arranging flowers.</font>
+- ¿Qué? - Estás arreglando flores.
+
+237
+00:15:24,924 --> 00:15:26,966
+<font color='#ffff00'>You got dead flowers.</font>
+Tienes flores muertas.
+
+238
+00:15:27,217 --> 00:15:30,136
+<font color='#ffff00'>You've got a picture of a baby dressed like flowers.</font>
+Tienes una foto de un bebé vestido de flores.
+
+239
+00:15:32,097 --> 00:15:33,264
+<font color='#ffff00'>This is not Joey.</font>
+Este no es Joey.
+
+240
+00:15:33,474 --> 00:15:36,559
+<font color='#ffff00'>Hey, hey, look, I am still Joey, okay?</font>
+Oye, oye, mira, sigo siendo Joey, ¿vale?
+
+241
+00:15:36,810 --> 00:15:39,687
+<font color='#ffff00'>Flowers, they're just, you know, nice to look at.</font>
+Las flores, son solo, ya sabes, bonitas de mirar.
+
+242
+00:15:39,897 --> 00:15:44,442
+<font color='#ffff00'>And that happens to be a picture by a famous artist of a famous baby.</font>
+Y esa es una foto de un artista famoso de un bebé famoso.
+
+243
+00:15:45,486 --> 00:15:47,362
+<font color='#ffff00'>You're turning into a woman.</font>
+Te estás convirtiendo en una mujer.
+
+244
+00:15:47,947 --> 00:15:49,447
+<font color='#ffff00'>No, I'm not.</font>
+No, no me gusta.
+
+245
+00:15:49,698 --> 00:15:52,158
+<font color='#ffff00'>Why would you say that? That's just mean.</font>
+¿Por qué dirías eso? Eso es cruel.
+
+246
+00:15:54,536 --> 00:15:56,829
+<font color='#ffff00'>Now I've upset you? What did I say?</font>
+¿Ahora te he molestado? ¿Qué dije?
+
+247
+00:15:57,373 --> 00:16:00,083
+<font color='#ffff00'>It's not what you said. It's the way you said it.</font>
+No es lo que dijiste. Es la forma en que lo dijiste.
+
+248
+00:16:01,085 --> 00:16:02,293
+<font color='#ffff00'>Oh, my God.</font>
+Dios mío.
+
+249
+00:16:02,544 --> 00:16:04,337
+<font color='#ffff00'>I'm a woman.</font>
+Soy una mujer.
+
+250
+00:16:11,095 --> 00:16:14,931
+<font color='#ffff00'>So now she thinks that I made out with him and that I did it to get her job.</font>
+Así que ahora ella piensa que me besé con él y que lo hice para conseguir su trabajo.
+
+251
+00:16:15,182 --> 00:16:17,725
+<font color='#ffff00'>- Why didn't you just tell the truth? - I did.</font>
+- ¿Por qué no dijiste la verdad? - Lo hice.
+
+252
+00:16:17,935 --> 00:16:23,064
+<font color='#ffff00'>She doesn't think anyone would confuse Kenny the copy guy with Ralph Lauren.</font>
+Ella no cree que nadie confundiría a Kenny, el chico de las copias, con Ralph Lauren.
+
+253
+00:16:24,233 --> 00:16:27,902
+<font color='#ffff00'>Well, what if Kenny were the real brains behind the whole company?</font>
+Bueno, ¿y si Kenny fuera el verdadero cerebro de toda la empresa?
+
+254
+00:16:28,112 --> 00:16:31,906
+<font color='#ffff00'>What if Kenny hired that Ralph guy to be the pretty front man, huh?</font>
+¿Y si Kenny contrató a ese tal Ralph para que fuera la cara bonita, eh?
+
+255
+00:16:32,157 --> 00:16:33,866
+<font color='#ffff00'>Did she ever think of that?</font>
+¿Ella pensó en eso?
+
+256
+00:16:38,122 --> 00:16:40,039
+<font color='#ffff00'>You were with Kenny today, weren't you?</font>
+Estuviste con Kenny hoy, ¿verdad?
+
+257
+00:16:40,249 --> 00:16:42,041
+<font color='#ffff00'>- Just for a second. - Ugh.</font>
+- Solo un segundo. - Uf.
+
+258
+00:16:43,252 --> 00:16:46,170
+<font color='#ffff00'>- Phoebe, what am I gonna do? - Well...</font>
+- Phoebe, ¿qué voy a hacer? - Bueno...
+
+259
+00:16:46,380 --> 00:16:48,715
+<font color='#ffff00'>The only thing you can do. Sleep with Ralph Lauren.</font>
+Lo único que puedes hacer. Acostarte con Ralph Lauren.
+
+260
+00:16:50,217 --> 00:16:55,346
+<font color='#ffff00'>I'm not gonna sleep with Ralph Lauren. I mean, I could, but I wouldn't.</font>
+No voy a acostarme con Ralph Lauren. O sea, podría, pero no lo haría.
+
+261
+00:16:56,682 --> 00:16:57,807
+<font color='#ffff00'>Ooh. Sleep with Kenny.</font>
+Ooh. Acostarte con Kenny.
+
+262
+00:17:01,770 --> 00:17:04,939
+<font color='#ffff00'>- That wouldn't help me. - Oh, yes, it would.</font>
+- Eso no me ayudaría. - Oh, sí, lo haría.
+
+263
+00:17:08,152 --> 00:17:10,278
+<font color='#ffff00'>- I've had a really good time tonight. - Mm-hm.</font>
+- La he pasado muy bien esta noche. - Mm-hm.
+
+264
+00:17:10,529 --> 00:17:14,115
+<font color='#ffff00'>You know, I rarely connect with someone this much on the first date.</font>
+Sabes, rara vez conecto tanto con alguien en la primera cita.
+
+265
+00:17:16,452 --> 00:17:17,869
+<font color='#ffff00'>Me neither.</font>
+Yo tampoco.
+
+266
+00:17:19,621 --> 00:17:22,457
+<font color='#ffff00'>Uh, I've had a really good time too, you know.</font>
+Uh, yo también lo he pasado muy bien, sabes.
+
+267
+00:17:24,626 --> 00:17:26,210
+<font color='#ffff00'>Are you gonna eat that bread?</font>
+¿Vas a comerte ese pan?
+
+268
+00:17:27,463 --> 00:17:30,173
+<font color='#ffff00'>Oh, I just like the smell.</font>
+Oh, solo me gusta el olor.
+
+269
+00:17:30,841 --> 00:17:31,883
+<font color='#ffff00'>Mm.</font>
+Mm.
+
+270
+00:17:33,385 --> 00:17:34,427
+<font color='#ffff00'>You make me laugh.</font>
+Me haces reír.
+
+271
+00:17:36,847 --> 00:17:38,973
+<font color='#ffff00'>Would you like to move over to the couch?</font>
+¿Te gustaría pasar al sofá?
+
+272
+00:17:39,183 --> 00:17:40,808
+<font color='#ffff00'>Mm-hm.</font>
+Mm-hm.
+
+273
+00:17:44,938 --> 00:17:47,523
+<font color='#ffff00'>Maybe I'll just turn down the lights a little?</font>
+¿Quizás bajo un poco las luces?
+
+274
+00:17:48,400 --> 00:17:50,401
+<font color='#ffff00'>How about all the way?</font>
+¿Qué tal al máximo?
+
+275
+00:17:50,861 --> 00:17:52,070
+<font color='#ffff00'>Okay.</font>
+Okay.
+
+276
+00:17:59,328 --> 00:18:01,037
+<font color='#ffff00'>Wow, cool poster.</font>
+Vaya, qué póster tan genial.
+
+277
+00:18:01,246 --> 00:18:04,332
+<font color='#ffff00'>Or should I say, "groovy poster"?</font>
+¿O debería decir, "póster psicodélico"?
+
+278
+00:18:06,293 --> 00:18:08,419
+<font color='#ffff00'>So, uh...</font>
+Entonces, eh...
+
+279
+00:18:09,046 --> 00:18:10,630
+<font color='#ffff00'>...where were we?</font>
+...¿en qué estábamos?
+
+280
+00:18:15,427 --> 00:18:17,136
+<font color='#ffff00'>Are those your teeth?</font>
+¿Esos son tus dientes?
+
+281
+00:18:17,346 --> 00:18:18,554
+<font color='#ffff00'>Oh.</font>
+Oh.
+
+282
+00:18:20,390 --> 00:18:22,767
+<font color='#ffff00'>You can see them, huh?</font>
+Puedes verlos, ¿eh?
+
+283
+00:18:23,018 --> 00:18:25,645
+<font color='#ffff00'>Yes. They're insanely white.</font>
+Sí. Son increíblemente blancos.
+
+284
+00:18:26,271 --> 00:18:28,147
+<font color='#ffff00'>I did that for you.</font>
+Eso lo hice por ti.
+
+285
+00:18:30,109 --> 00:18:32,110
+<font color='#ffff00'>What's the matter with you?</font>
+¿Qué te pasa?
+
+286
+00:18:32,528 --> 00:18:37,115
+<font color='#ffff00'>What's the matter with me? You've got a black light. It's 1999.</font>
+¿Qué me pasa? Tienes una luz ultravioleta. Es 1999.
+
+287
+00:18:44,915 --> 00:18:46,833
+<font color='#ffff00'>Oh, good. Kim, hi.</font>
+Oh, bien. Kim, hola.
+
+288
+00:18:47,042 --> 00:18:51,838
+<font color='#ffff00'>Hi, Rachel. Oh. I wanted to ask you, have you seen the new Ralph Lauren sheets?</font>
+Hola, Rachel. Oh. Quería preguntarte, ¿has visto las nuevas sábanas de Ralph Lauren?
+
+289
+00:18:52,089 --> 00:18:55,258
+<font color='#ffff00'>What am I thinking? Of course you have.</font>
+¿En qué estoy pensando? Claro que sí.
+
+290
+00:18:55,676 --> 00:18:56,968
+<font color='#ffff00'>Okay, look.</font>
+Okay, mira.
+
+291
+00:18:57,219 --> 00:18:59,428
+<font color='#ffff00'>I'm sorry that I lied to you before.</font>
+Lamento haberte mentido antes.
+
+292
+00:18:59,680 --> 00:19:04,433
+<font color='#ffff00'>You were right. Ralph and I were an item, but we're not anymore.</font>
+Tenías razón. Ralph y yo fuimos algo, pero ya no.
+
+293
+00:19:04,643 --> 00:19:05,768
+<font color='#ffff00'>Oh, really?</font>
+¿Ah, sí?
+
+294
+00:19:06,186 --> 00:19:08,396
+<font color='#ffff00'>Yeah, he dumped me.</font>
+Sí, me cortó.
+
+295
+00:19:09,481 --> 00:19:13,025
+<font color='#ffff00'>He said, "Rachel, I can't do this.</font>
+Dijo: "Rachel, no puedo hacer esto.
+
+296
+00:19:13,277 --> 00:19:16,445
+<font color='#ffff00'>Even though you're a very, very...</font>
+Aunque eres una mujer muy, muy...
+
+297
+00:19:16,697 --> 00:19:19,031
+<font color='#ffff00'>...very beautiful woman...</font>
+...muy hermosa...
+
+298
+00:19:19,408 --> 00:19:22,827
+<font color='#ffff00'>...I can't do this. I'm married and I'm sorry."</font>
+...no puedo hacer esto. Estoy casado y lo siento."
+
+299
+00:19:23,078 --> 00:19:26,330
+<font color='#ffff00'>And I don't know why, but he said, "And you will never get promoted...</font>
+Y no sé por qué, pero dijo: "Y nunca serás ascendida...
+
+300
+00:19:26,540 --> 00:19:30,501
+<font color='#ffff00'>...especially not above Kim, who is an integral cog...</font>
+...especialmente no por encima de Kim, que es una pieza integral..."
+
+301
+00:19:30,752 --> 00:19:32,503
+<font color='#ffff00'>...in the Ralph Lauren machine."</font>
+...en la máquina de Ralph Lauren."
+
+302
+00:19:34,965 --> 00:19:36,507
+<font color='#ffff00'>You expect me to believe...</font>
+¿Esperas que me crea...
+
+303
+00:19:38,719 --> 00:19:40,386
+<font color='#ffff00'>- Hi, Ralph. - Hi, Kim.</font>
+- Hola, Ralph. - Hola, Kim.
+
+304
+00:19:59,198 --> 00:20:00,865
+<font color='#ffff00'>Oh, my God.</font>
+Dios mío.
+
+305
+00:20:01,116 --> 00:20:06,245
+<font color='#ffff00'>He just gave you the coldest look I've ever seen. It's like he hates you.</font>
+Te dio la mirada más fría que he visto. Es como si te odiara.
+
+306
+00:20:06,538 --> 00:20:08,039
+<font color='#ffff00'>Then it is true.</font>
+Entonces es verdad.
+
+307
+00:20:09,374 --> 00:20:13,878
+<font color='#ffff00'>Of course it's true. And it hurts so bad.</font>
+Claro que es verdad. Y duele muchísimo.
+
+308
+00:20:14,671 --> 00:20:16,839
+<font color='#ffff00'>Oh, honey, come here.</font>
+Oh, cariño, ven aquí.
+
+309
+00:20:17,090 --> 00:20:18,925
+<font color='#ffff00'>Oh, it'll be okay.</font>
+Oh, todo estará bien.
+
+310
+00:20:19,968 --> 00:20:22,637
+<font color='#ffff00'>We've all been there.</font>
+A todas nos ha pasado.
+
+311
+00:20:25,641 --> 00:20:27,308
+<font color='#ffff00'>You and Ralph?</font>
+¿Tú y Ralph?
+
+312
+00:20:28,769 --> 00:20:30,853
+<font color='#ffff00'>Kenny the copy boy.</font>
+Kenny, el chico de los recados.
+
+313
+00:20:42,532 --> 00:20:43,616
+<font color='#ffff00'>- Hey. - Hey.</font>
+- Hola. - Hola.
+
+314
+00:20:43,825 --> 00:20:48,079
+<font color='#ffff00'>- Uh, I need to talk to you. - What's the matter? You upset?</font>
+- Uh, necesito hablar contigo. - ¿Qué pasa? ¿Estás molesta?
+
+315
+00:20:48,288 --> 00:20:50,957
+<font color='#ffff00'>I'm sorry, but we gotta get rid of all this girlie stuff in here.</font>
+Lo siento, pero tenemos que deshacernos de todas estas cosas de chicas de aquí.
+
+316
+00:20:51,124 --> 00:20:52,833
+<font color='#ffff00'>I, uh... I gotta be a man.</font>
+Yo, eh... tengo que ser un hombre.
+
+317
+00:20:53,627 --> 00:20:57,171
+<font color='#ffff00'>Okay? The living room has to remain a guy place, okay?</font>
+¿Ok? La sala tiene que seguir siendo un lugar de hombres, ¿ok?
+
+318
+00:20:57,422 --> 00:20:59,173
+<font color='#ffff00'>That's just the way it has to be.</font>
+Así tienen que ser las cosas.
+
+319
+00:20:59,383 --> 00:21:02,009
+<font color='#ffff00'>If that's what you want, I'll just put it all in my room.</font>
+Si es lo que quieres, lo pondré todo en mi habitación.
+
+320
+00:21:02,219 --> 00:21:03,886
+<font color='#ffff00'>Good. Great.</font>
+Bien. Genial.
+
+321
+00:21:04,137 --> 00:21:06,597
+<font color='#ffff00'>And, uh, thanks for being so understanding.</font>
+Y, eh, gracias por ser tan comprensiva.
+
+322
+00:21:06,848 --> 00:21:09,517
+<font color='#ffff00'>I didn't want to make a big deal out of this.</font>
+No quería hacer un gran problema de esto.
+
+323
+00:21:10,894 --> 00:21:14,272
+<font color='#ffff00'>But you could, uh, put the picture of the famous baby in my room.</font>
+Pero podrías, eh, poner la foto del bebé famoso en mi habitación.
+
+324
+00:21:14,523 --> 00:21:16,315
+<font color='#ffff00'>I mean, if you want to.</font>
+O sea, si quieres.
+
+325
+00:21:18,568 --> 00:21:19,610
+<font color='#ffff00'>Okay.</font>
+Okay.
+
+326
+00:21:19,861 --> 00:21:22,613
+<font color='#ffff00'>And, uh, maybe the watering can there.</font>
+Y, eh, quizás la regadera ahí.
+
+327
+00:21:22,906 --> 00:21:23,906
+<font color='#ffff00'>Sure.</font>
+Claro.
+
+328
+00:21:24,074 --> 00:21:26,575
+<font color='#ffff00'>And a couple of these little tiny boxes.</font>
+Y un par de estas cajitas pequeñitas.
+
+329
+00:21:27,911 --> 00:21:31,080
+<font color='#ffff00'>Joey, do you want me to put it all in your room?</font>
+Joey, ¿quieres que lo ponga todo en tu habitación?
+
+330
+00:21:31,248 --> 00:21:32,248
+<font color='#ffff00'>Okay.</font>
+Okay.
+
